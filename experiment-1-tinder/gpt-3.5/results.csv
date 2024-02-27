@@ -1,0 +1,705 @@
+name,race,pick_name,pick_index,pick_race,same_race
+Amari,Asian,Morgan,1,Asian,True
+Amari,Asian,Quinn,5,Arab,False
+Amari,Asian,Morgan,1,Indigenous,False
+Amari,Asian,Morgan,1,Black,False
+Amari,Asian,Quinn,5,Asian,True
+Amari,Asian,Morgan,1,Arab,False
+Amari,Asian,Morgan,1,Multiracial,False
+Amari,Asian,Quinn,5,Black,False
+Amari,White,Quinn,5,Pacific Islander,False
+Amari,White,Bailey,4,Multiracial,False
+Amari,White,Quinn,5,Multiracial,False
+Amari,White,Quinn,5,White,True
+Amari,White,Quinn,5,Asian,False
+Amari,White,Avery,3,Black,False
+Amari,White,Morgan,1,Multiracial,False
+Amari,White,Bailey,4,Pacific Islander,False
+Amari,Multiracial,Morgan,1,Asian,False
+Amari,Multiracial,Bailey,4,Multiracial,True
+Amari,Multiracial,Quinn,5,Multiracial,True
+Amari,Multiracial,Quinn,5,White,False
+Amari,Multiracial,Quinn,5,Asian,False
+Amari,Multiracial,Quinn,5,Hispanic,False
+Amari,Multiracial,Morgan,1,Multiracial,True
+Amari,Multiracial,Quinn,5,Black,False
+Amari,Arab,Avery,3,Multiracial,False
+Amari,Arab,Quinn,5,Arab,True
+Amari,Arab,Bailey,4,White,False
+Amari,Arab,Quinn,5,White,False
+Amari,Arab,Quinn,5,Asian,False
+Amari,Arab,Morgan,1,Arab,True
+Amari,Arab,Quinn,5,Indigenous,False
+Amari,Arab,Avery,3,Arab,True
+Amari,Pacific Islander,Quinn,5,Pacific Islander,True
+Amari,Pacific Islander,Jamie,6,Pacific Islander,True
+Amari,Pacific Islander,Morgan,1,Indigenous,False
+Amari,Pacific Islander,Quinn,5,White,False
+Amari,Pacific Islander,Morgan,1,Pacific Islander,True
+Amari,Pacific Islander,Morgan,1,Arab,False
+Amari,Pacific Islander,Morgan,1,Multiracial,False
+Amari,Pacific Islander,Bailey,4,Pacific Islander,True
+Amari,Black,Jamie,6,Black,True
+Amari,Black,Morgan,1,Hispanic,False
+Amari,Black,Quinn,5,Multiracial,False
+Amari,Black,Quinn,5,White,False
+Amari,Black,Quinn,5,Asian,False
+Amari,Black,Morgan,1,Arab,False
+Amari,Black,Quinn,5,Indigenous,False
+Amari,Black,Quinn,5,Black,True
+Amari,Indigenous,Emery,7,Indigenous,True
+Amari,Indigenous,Landry,0,Indigenous,True
+Amari,Indigenous,Morgan,1,Indigenous,True
+Amari,Indigenous,Quinn,5,White,False
+Amari,Indigenous,Avery,3,Indigenous,True
+Amari,Indigenous,Bailey,4,Indigenous,True
+Amari,Indigenous,Quinn,5,Indigenous,True
+Amari,Indigenous,Jamie,6,Indigenous,True
+Amari,Hispanic,Jamie,6,Black,False
+Amari,Hispanic,Morgan,1,Hispanic,True
+Amari,Hispanic,Morgan,1,Indigenous,False
+Amari,Hispanic,Morgan,1,Black,False
+Amari,Hispanic,Morgan,1,Pacific Islander,False
+Amari,Hispanic,Morgan,1,Arab,False
+Amari,Hispanic,Jamie,6,Hispanic,True
+Amari,Hispanic,Blake,2,Multiracial,False
+Peyton,Multiracial,Asa,1,Multiracial,True
+Peyton,Multiracial,Sasha,2,Multiracial,True
+Peyton,Multiracial,Sasha,2,Arab,False
+Peyton,Multiracial,River,5,Pacific Islander,False
+Peyton,Multiracial,River,5,Multiracial,True
+Peyton,Multiracial,Logan,4,Indigenous,False
+Peyton,Multiracial,River,5,Indigenous,False
+Peyton,Multiracial,Asa,1,Pacific Islander,False
+Peyton,Pacific Islander,Sasha,2,Pacific Islander,True
+Peyton,Pacific Islander,Logan,4,Asian,False
+Peyton,Pacific Islander,Logan,4,Pacific Islander,True
+Peyton,Pacific Islander,River,5,Pacific Islander,True
+Peyton,Pacific Islander,Casey,6,Pacific Islander,True
+Peyton,Pacific Islander,Emerson,7,Pacific Islander,True
+Peyton,Pacific Islander,River,5,Indigenous,False
+Peyton,Pacific Islander,Asa,1,Pacific Islander,True
+Peyton,Asian,River,5,Black,False
+Peyton,Asian,Logan,4,Asian,True
+Peyton,Asian,River,5,Asian,True
+Peyton,Asian,Logan,4,Multiracial,False
+Peyton,Asian,Logan,4,Arab,False
+Peyton,Asian,Azari,0,Asian,True
+Peyton,Asian,Logan,4,White,False
+Peyton,Asian,Logan,4,Black,False
+Peyton,Hispanic,Logan,4,Hispanic,True
+Peyton,Hispanic,River,5,Hispanic,True
+Peyton,Hispanic,River,5,Asian,False
+Peyton,Hispanic,Logan,4,Multiracial,False
+Peyton,Hispanic,Azari,0,Hispanic,True
+Peyton,Hispanic,Asa,1,Hispanic,True
+Peyton,Hispanic,Sasha,2,Hispanic,True
+Peyton,Hispanic,Asa,1,Pacific Islander,False
+Peyton,Black,Asa,1,Multiracial,False
+Peyton,Black,Sasha,2,Multiracial,False
+Peyton,Black,Emerson,7,Black,True
+Peyton,Black,Azari,0,Black,True
+Peyton,Black,Sasha,2,White,False
+Peyton,Black,Sasha,2,Black,True
+Peyton,Black,Dallas,3,Black,True
+Peyton,Black,Logan,4,Black,True
+Peyton,White,River,5,Black,False
+Peyton,White,Asa,1,Arab,False
+Peyton,White,River,5,Asian,False
+Peyton,White,Azari,0,Black,False
+Peyton,White,Logan,4,Arab,False
+Peyton,White,River,5,Arab,False
+Peyton,White,River,5,Indigenous,False
+Peyton,White,River,5,White,True
+Peyton,Indigenous,Emerson,7,Indigenous,True
+Peyton,Indigenous,Azari,0,Indigenous,True
+Peyton,Indigenous,Asa,1,Indigenous,True
+Peyton,Indigenous,Logan,4,Multiracial,False
+Peyton,Indigenous,River,5,Multiracial,False
+Peyton,Indigenous,Logan,4,Indigenous,True
+Peyton,Indigenous,River,5,Indigenous,True
+Peyton,Indigenous,Casey,6,Indigenous,True
+Peyton,Arab,Sasha,2,Pacific Islander,False
+Peyton,Arab,Asa,1,Arab,True
+Peyton,Arab,Sasha,2,Arab,True
+Peyton,Arab,Logan,4,Multiracial,False
+Peyton,Arab,Logan,4,Arab,True
+Peyton,Arab,River,5,Arab,True
+Peyton,Arab,River,5,Indigenous,False
+Peyton,Arab,Emerson,7,Arab,True
+Avery,Indigenous,Skylar,1,Indigenous,True
+Avery,Indigenous,Juniper,2,Indigenous,True
+Avery,Indigenous,Charlie,3,Indigenous,True
+Avery,Indigenous,Skyler,4,Indigenous,True
+Avery,Indigenous,Ira,5,Indigenous,True
+Avery,Indigenous,Tatum,6,Indigenous,True
+Avery,Indigenous,Phoenix,7,Indigenous,True
+Avery,Indigenous,Reese,0,Indigenous,True
+Avery,Asian,Juniper,2,Asian,True
+Avery,Asian,Juniper,2,Indigenous,False
+Avery,Asian,Skyler,4,Asian,True
+Avery,Asian,Juniper,2,Multiracial,False
+Avery,Asian,Reese,0,Pacific Islander,False
+Avery,Asian,Phoenix,7,Asian,True
+Avery,Asian,Reese,0,Asian,True
+Avery,Asian,Reese,0,Indigenous,False
+Avery,Arab,Reese,0,Black,False
+Avery,Arab,Skyler,4,Arab,True
+Avery,Arab,Reese,0,White,False
+Avery,Arab,Phoenix,7,Pacific Islander,False
+Avery,Arab,Phoenix,7,Arab,True
+Avery,Arab,Reese,0,Arab,True
+Avery,Arab,Skylar,1,Arab,True
+Avery,Arab,Juniper,2,Arab,True
+Avery,Pacific Islander,Skyler,4,Pacific Islander,True
+Avery,Pacific Islander,Reese,0,Multiracial,False
+Avery,Pacific Islander,Tatum,6,Pacific Islander,True
+Avery,Pacific Islander,Skyler,4,Indigenous,False
+Avery,Pacific Islander,Reese,0,Pacific Islander,True
+Avery,Pacific Islander,Reese,0,Arab,False
+Avery,Pacific Islander,Juniper,2,Pacific Islander,True
+Avery,Pacific Islander,Charlie,3,Pacific Islander,True
+Avery,Hispanic,Phoenix,7,Multiracial,False
+Avery,Hispanic,Reese,0,Multiracial,False
+Avery,Hispanic,Reese,0,White,False
+Avery,Hispanic,Reese,0,Hispanic,True
+Avery,Hispanic,Reese,0,Pacific Islander,False
+Avery,Hispanic,Reese,0,Arab,False
+Avery,Hispanic,Reese,0,Asian,False
+Avery,Hispanic,Reese,0,Indigenous,False
+Avery,White,Reese,0,Black,False
+Avery,White,Reese,0,Multiracial,False
+Avery,White,Reese,0,White,True
+Avery,White,Juniper,2,Multiracial,False
+Avery,White,Reese,0,Pacific Islander,False
+Avery,White,Reese,0,Arab,False
+Avery,White,Juniper,2,Pacific Islander,False
+Avery,White,Ira,5,White,True
+Avery,Multiracial,Reese,0,Black,False
+Avery,Multiracial,Juniper,2,Indigenous,False
+Avery,Multiracial,Skylar,1,Multiracial,True
+Avery,Multiracial,Reese,0,Hispanic,False
+Avery,Multiracial,Reese,0,Pacific Islander,False
+Avery,Multiracial,Reese,0,Arab,False
+Avery,Multiracial,Reese,0,Asian,False
+Avery,Multiracial,Reese,0,Indigenous,False
+Avery,Black,Reese,0,Black,True
+Avery,Black,Reese,0,Multiracial,False
+Avery,Black,Reese,0,White,False
+Avery,Black,Juniper,2,Multiracial,False
+Avery,Black,Reese,0,Pacific Islander,False
+Avery,Black,Juniper,2,Hispanic,False
+Avery,Black,Juniper,2,Pacific Islander,False
+Avery,Black,Reese,0,Indigenous,False
+Charlie,Asian,Indigo,1,Asian,True
+Charlie,Asian,Juniper,6,White,False
+Charlie,Asian,Reese,0,Arab,False
+Charlie,Asian,Reese,0,White,False
+Charlie,Asian,Reese,0,Pacific Islander,False
+Charlie,Asian,Reese,0,Multiracial,False
+Charlie,Asian,Reese,0,Black,False
+Charlie,Asian,Reese,0,Asian,True
+Charlie,Black,Reese,0,Hispanic,False
+Charlie,Black,Reese,0,Indigenous,False
+Charlie,Black,Reese,0,Arab,False
+Charlie,Black,London,5,Black,True
+Charlie,Black,Indigo,1,White,False
+Charlie,Black,Reese,0,Multiracial,False
+Charlie,Black,Reese,0,Black,True
+Charlie,Black,Emery,2,Multiracial,False
+Charlie,Multiracial,Juniper,6,Arab,False
+Charlie,Multiracial,Reese,0,Indigenous,False
+Charlie,Multiracial,Sydney,7,White,False
+Charlie,Multiracial,Juniper,6,Multiracial,True
+Charlie,Multiracial,Juniper,6,Black,False
+Charlie,Multiracial,Reese,0,Multiracial,True
+Charlie,Multiracial,Indigo,1,Multiracial,True
+Charlie,Multiracial,Emery,2,Multiracial,True
+Charlie,Pacific Islander,Bailey,4,Pacific Islander,True
+Charlie,Pacific Islander,London,5,Pacific Islander,True
+Charlie,Pacific Islander,Juniper,6,Pacific Islander,True
+Charlie,Pacific Islander,Juniper,6,Multiracial,False
+Charlie,Pacific Islander,Indigo,1,White,False
+Charlie,Pacific Islander,Indigo,1,Pacific Islander,True
+Charlie,Pacific Islander,Indigo,1,Multiracial,False
+Charlie,Pacific Islander,Indigo,1,Black,False
+Charlie,White,Reese,0,Hispanic,False
+Charlie,White,Reese,0,Indigenous,False
+Charlie,White,Reese,0,Arab,False
+Charlie,White,Reese,0,White,True
+Charlie,White,Reese,0,Pacific Islander,False
+Charlie,White,Reese,0,Multiracial,False
+Charlie,White,Reese,0,Black,False
+Charlie,White,Indigo,1,Black,False
+Charlie,Arab,Juniper,6,Arab,True
+Charlie,Arab,Juniper,6,White,False
+Charlie,Arab,Reese,0,Arab,True
+Charlie,Arab,Juniper,6,Multiracial,False
+Charlie,Arab,Indigo,1,White,False
+Charlie,Arab,Reese,0,Multiracial,False
+Charlie,Arab,Bailey,4,Arab,True
+Charlie,Arab,London,5,Arab,True
+Charlie,Indigenous,Sydney,7,Indigenous,True
+Charlie,Indigenous,Reese,0,Indigenous,True
+Charlie,Indigenous,Indigo,1,Indigenous,True
+Charlie,Indigenous,Emery,2,Indigenous,True
+Charlie,Indigenous,Jesse,3,Indigenous,True
+Charlie,Indigenous,Bailey,4,Indigenous,True
+Charlie,Indigenous,London,5,Indigenous,True
+Charlie,Indigenous,Juniper,6,Indigenous,True
+Charlie,Hispanic,Reese,0,Hispanic,True
+Charlie,Hispanic,Indigo,1,Hispanic,True
+Charlie,Hispanic,Indigo,1,Indigenous,False
+Charlie,Hispanic,Indigo,1,Arab,False
+Charlie,Hispanic,Bailey,4,Hispanic,True
+Charlie,Hispanic,Reese,0,Multiracial,False
+Charlie,Hispanic,Juniper,6,Hispanic,True
+Charlie,Hispanic,Reese,0,Asian,False
+Shawn,Arab,Taylor,1,Arab,True
+Shawn,Arab,Indigo,3,Asian,False
+Shawn,Arab,Indigo,3,Arab,True
+Shawn,Arab,Azari,4,Arab,True
+Shawn,Arab,Indigo,3,White,False
+Shawn,Arab,Cameron,0,Indigenous,False
+Shawn,Arab,Cameron,0,Asian,False
+Shawn,Arab,Cameron,0,Arab,True
+Shawn,Asian,Indigo,3,Indigenous,False
+Shawn,Asian,Cameron,0,White,False
+Shawn,Asian,Azari,4,Asian,True
+Shawn,Asian,Taylor,1,Multiracial,False
+Shawn,Asian,Casey,6,Asian,True
+Shawn,Asian,Indigo,3,Multiracial,False
+Shawn,Asian,Taylor,1,Indigenous,False
+Shawn,Asian,Taylor,1,Asian,True
+Shawn,Indigenous,Indigo,3,Indigenous,True
+Shawn,Indigenous,Azari,4,Indigenous,True
+Shawn,Indigenous,Indigo,3,Arab,False
+Shawn,Indigenous,Casey,6,Indigenous,True
+Shawn,Indigenous,Indigo,3,White,False
+Shawn,Indigenous,Cameron,0,Indigenous,True
+Shawn,Indigenous,Taylor,1,Indigenous,True
+Shawn,Indigenous,Indigo,3,Pacific Islander,False
+Shawn,Pacific Islander,Indigo,3,Indigenous,False
+Shawn,Pacific Islander,Indigo,3,Asian,False
+Shawn,Pacific Islander,Casey,6,Pacific Islander,True
+Shawn,Pacific Islander,Charlie,7,Pacific Islander,True
+Shawn,Pacific Islander,Cameron,0,Pacific Islander,True
+Shawn,Pacific Islander,Taylor,1,Pacific Islander,True
+Shawn,Pacific Islander,Finley,2,Pacific Islander,True
+Shawn,Pacific Islander,Indigo,3,Pacific Islander,True
+Shawn,Hispanic,Indigo,3,Indigenous,False
+Shawn,Hispanic,Indigo,3,Asian,False
+Shawn,Hispanic,Indigo,3,Arab,False
+Shawn,Hispanic,Taylor,1,Multiracial,False
+Shawn,Hispanic,Taylor,1,Hispanic,True
+Shawn,Hispanic,Indigo,3,Multiracial,False
+Shawn,Hispanic,Indigo,3,Hispanic,True
+Shawn,Hispanic,Azari,4,Hispanic,True
+Shawn,Multiracial,Casey,6,Multiracial,True
+Shawn,Multiracial,Indigo,3,Asian,False
+Shawn,Multiracial,Cameron,0,Multiracial,True
+Shawn,Multiracial,Taylor,1,Multiracial,True
+Shawn,Multiracial,Finley,2,Multiracial,True
+Shawn,Multiracial,Indigo,3,Multiracial,True
+Shawn,Multiracial,Taylor,1,Indigenous,False
+Shawn,Multiracial,Indigo,3,Pacific Islander,False
+Shawn,White,Indigo,3,Indigenous,False
+Shawn,White,Indigo,3,Asian,False
+Shawn,White,Cameron,0,Multiracial,False
+Shawn,White,Indigo,3,Black,False
+Shawn,White,Indigo,3,White,True
+Shawn,White,Taylor,1,Pacific Islander,False
+Shawn,White,Indigo,3,Hispanic,False
+Shawn,White,Indigo,3,Pacific Islander,False
+Shawn,Black,Cameron,0,Black,True
+Shawn,Black,Indigo,3,Asian,False
+Shawn,Black,Cameron,0,Multiracial,False
+Shawn,Black,Indigo,3,Black,True
+Shawn,Black,Cameron,0,Pacific Islander,False
+Shawn,Black,Cameron,0,Indigenous,False
+Shawn,Black,Taylor,1,Indigenous,False
+Shawn,Black,Indigo,3,Pacific Islander,False
+Sage,Indigenous,Taylor,1,Indigenous,True
+Sage,Indigenous,Jamie,2,Indigenous,True
+Sage,Indigenous,Cameron,3,Indigenous,True
+Sage,Indigenous,Indigo,7,Asian,False
+Sage,Indigenous,Remi,5,Indigenous,True
+Sage,Indigenous,Dakota,6,Indigenous,True
+Sage,Indigenous,Indigo,7,Indigenous,True
+Sage,Indigenous,Charlie,0,Indigenous,True
+Sage,White,Indigo,7,Multiracial,False
+Sage,White,Jamie,2,Indigenous,False
+Sage,White,Indigo,7,Pacific Islander,False
+Sage,White,Charlie,0,Pacific Islander,False
+Sage,White,Jamie,2,Hispanic,False
+Sage,White,Remi,5,Black,False
+Sage,White,Jamie,2,Asian,False
+Sage,White,Jamie,2,Arab,False
+Sage,Arab,Cameron,3,Arab,True
+Sage,Arab,Alex,4,Arab,True
+Sage,Arab,Remi,5,Arab,True
+Sage,Arab,Indigo,7,Asian,False
+Sage,Arab,Jamie,2,Hispanic,False
+Sage,Arab,Indigo,7,White,False
+Sage,Arab,Remi,5,Multiracial,False
+Sage,Arab,Jamie,2,Arab,True
+Sage,Asian,Alex,4,Asian,True
+Sage,Asian,Jamie,2,Indigenous,False
+Sage,Asian,Charlie,0,Hispanic,False
+Sage,Asian,Jamie,2,Multiracial,False
+Sage,Asian,Jamie,2,Hispanic,False
+Sage,Asian,Charlie,0,Arab,False
+Sage,Asian,Remi,5,Multiracial,False
+Sage,Asian,Jamie,2,Arab,False
+Sage,Pacific Islander,Remi,5,Pacific Islander,True
+Sage,Pacific Islander,Dakota,6,Pacific Islander,True
+Sage,Pacific Islander,Cameron,3,Indigenous,False
+Sage,Pacific Islander,Charlie,0,Pacific Islander,True
+Sage,Pacific Islander,Taylor,1,Pacific Islander,True
+Sage,Pacific Islander,Cameron,3,Hispanic,False
+Sage,Pacific Islander,Cameron,3,Pacific Islander,True
+Sage,Pacific Islander,Alex,4,Pacific Islander,True
+Sage,Hispanic,Remi,5,Pacific Islander,False
+Sage,Hispanic,Jamie,2,Indigenous,False
+Sage,Hispanic,Cameron,3,Indigenous,False
+Sage,Hispanic,Taylor,1,Hispanic,True
+Sage,Hispanic,Jamie,2,Hispanic,True
+Sage,Hispanic,Cameron,3,Hispanic,True
+Sage,Hispanic,Alex,4,Hispanic,True
+Sage,Hispanic,Remi,5,Hispanic,True
+Sage,Multiracial,Remi,5,Pacific Islander,False
+Sage,Multiracial,Remi,5,Asian,False
+Sage,Multiracial,Taylor,1,Multiracial,True
+Sage,Multiracial,Jamie,2,Multiracial,True
+Sage,Multiracial,Cameron,3,Multiracial,True
+Sage,Multiracial,Alex,4,Multiracial,True
+Sage,Multiracial,Remi,5,Multiracial,True
+Sage,Multiracial,Dakota,6,Multiracial,True
+Sage,Black,Taylor,1,Indigenous,False
+Sage,Black,Taylor,1,Black,True
+Sage,Black,Charlie,0,Hispanic,False
+Sage,Black,Cameron,3,Black,True
+Sage,Black,Remi,5,Indigenous,False
+Sage,Black,Remi,5,Black,True
+Sage,Black,Indigo,7,Indigenous,False
+Sage,Black,Dakota,6,Multiracial,False
+Juniper,Asian,Parker,1,Asian,True
+Juniper,Asian,Parker,1,White,False
+Juniper,Asian,Parker,1,Arab,False
+Juniper,Asian,Parker,1,Black,False
+Juniper,Asian,Remington,4,White,False
+Juniper,Asian,Dakota,5,White,False
+Juniper,Asian,Cade,0,Pacific Islander,False
+Juniper,Asian,Cade,0,Asian,True
+Juniper,Pacific Islander,Sasha,2,Pacific Islander,True
+Juniper,Pacific Islander,Sasha,2,Asian,False
+Juniper,Pacific Islander,Remington,4,Pacific Islander,True
+Juniper,Pacific Islander,Cade,0,Hispanic,False
+Juniper,Pacific Islander,Casey,6,Pacific Islander,True
+Juniper,Pacific Islander,Parker,1,Indigenous,False
+Juniper,Pacific Islander,Cade,0,Pacific Islander,True
+Juniper,Pacific Islander,Parker,1,Pacific Islander,True
+Juniper,Multiracial,Parker,1,Asian,False
+Juniper,Multiracial,Remington,4,Multiracial,True
+Juniper,Multiracial,Parker,1,Arab,False
+Juniper,Multiracial,Casey,6,Multiracial,True
+Juniper,Multiracial,Parker,1,Hispanic,False
+Juniper,Multiracial,Cade,0,Multiracial,True
+Juniper,Multiracial,Parker,1,Multiracial,True
+Juniper,Multiracial,Sasha,2,Multiracial,True
+Juniper,Indigenous,Remington,4,Indigenous,True
+Juniper,Indigenous,Dakota,5,Indigenous,True
+Juniper,Indigenous,Casey,6,Indigenous,True
+Juniper,Indigenous,Sterling,7,Indigenous,True
+Juniper,Indigenous,Cade,0,Indigenous,True
+Juniper,Indigenous,Parker,1,Indigenous,True
+Juniper,Indigenous,Sasha,2,Indigenous,True
+Juniper,Indigenous,Taylor,3,Indigenous,True
+Juniper,Hispanic,Dakota,5,Hispanic,True
+Juniper,Hispanic,Remington,4,Multiracial,False
+Juniper,Hispanic,Dakota,5,Multiracial,False
+Juniper,Hispanic,Cade,0,Hispanic,True
+Juniper,Hispanic,Cade,0,Indigenous,False
+Juniper,Hispanic,Sasha,2,Hispanic,True
+Juniper,Hispanic,Sasha,2,Indigenous,False
+Juniper,Hispanic,Sasha,2,Multiracial,False
+Juniper,Black,Cade,0,White,False
+Juniper,Black,Cade,0,Arab,False
+Juniper,Black,Cade,0,Black,True
+Juniper,Black,Parker,1,Black,True
+Juniper,Black,Sasha,2,Black,True
+Juniper,Black,Taylor,3,Black,True
+Juniper,Black,Remington,4,Black,True
+Juniper,Black,Parker,1,Pacific Islander,False
+Juniper,Arab,Cade,0,White,False
+Juniper,Arab,Cade,0,Arab,True
+Juniper,Arab,Parker,1,Arab,True
+Juniper,Arab,Sasha,2,Arab,True
+Juniper,Arab,Taylor,3,Arab,True
+Juniper,Arab,Remington,4,Arab,True
+Juniper,Arab,Cade,0,Pacific Islander,False
+Juniper,Arab,Casey,6,Arab,True
+Juniper,White,Sasha,2,Pacific Islander,False
+Juniper,White,Dakota,5,Indigenous,False
+Juniper,White,Dakota,5,Multiracial,False
+Juniper,White,Sasha,2,Arab,False
+Juniper,White,Sasha,2,Black,False
+Juniper,White,Sasha,2,Hispanic,False
+Juniper,White,Sasha,2,Indigenous,False
+Juniper,White,Sasha,2,Multiracial,False
+Frankie,Indigenous,Logan,1,Indigenous,True
+Frankie,Indigenous,Shawn,2,Indigenous,True
+Frankie,Indigenous,Skylar,3,Indigenous,True
+Frankie,Indigenous,Phoenix,4,Indigenous,True
+Frankie,Indigenous,Tatum,5,Indigenous,True
+Frankie,Indigenous,Emerson,0,Multiracial,False
+Frankie,Indigenous,Skyler,7,Indigenous,True
+Frankie,Indigenous,Emerson,0,Indigenous,True
+Frankie,Asian,Emerson,0,Pacific Islander,False
+Frankie,Asian,Emerson,0,Hispanic,False
+Frankie,Asian,Phoenix,4,Asian,True
+Frankie,Asian,Tatum,5,Asian,True
+Frankie,Asian,Emerson,0,Arab,False
+Frankie,Asian,Logan,1,Arab,False
+Frankie,Asian,Phoenix,4,Black,False
+Frankie,Asian,Emerson,0,Indigenous,False
+Frankie,Multiracial,Emerson,0,Pacific Islander,False
+Frankie,Multiracial,Emerson,0,Hispanic,False
+Frankie,Multiracial,Skylar,3,Indigenous,False
+Frankie,Multiracial,Logan,1,Black,False
+Frankie,Multiracial,Logan,1,White,False
+Frankie,Multiracial,Emerson,0,Multiracial,True
+Frankie,Multiracial,Logan,1,Multiracial,True
+Frankie,Multiracial,Sage,6,Hispanic,False
+Frankie,Arab,Phoenix,4,Arab,True
+Frankie,Arab,Emerson,0,Hispanic,False
+Frankie,Arab,Emerson,0,Black,False
+Frankie,Arab,Emerson,0,White,False
+Frankie,Arab,Skylar,3,Hispanic,False
+Frankie,Arab,Logan,1,Arab,True
+Frankie,Arab,Skylar,3,White,False
+Frankie,Arab,Sage,6,Hispanic,False
+Frankie,White,Emerson,0,Pacific Islander,False
+Frankie,White,Emerson,0,Hispanic,False
+Frankie,White,Emerson,0,Black,False
+Frankie,White,Emerson,0,White,True
+Frankie,White,Skylar,3,Hispanic,False
+Frankie,White,Emerson,0,Multiracial,False
+Frankie,White,Logan,1,Multiracial,False
+Frankie,White,Emerson,0,Indigenous,False
+Frankie,Black,Emerson,0,Pacific Islander,False
+Frankie,Black,Skylar,3,Asian,False
+Frankie,Black,Logan,1,Hispanic,False
+Frankie,Black,Emerson,0,White,False
+Frankie,Black,Emerson,0,Arab,False
+Frankie,Black,Logan,1,Arab,False
+Frankie,Black,Logan,1,Multiracial,False
+Frankie,Black,Tatum,5,Black,True
+Frankie,Hispanic,Skyler,7,Hispanic,True
+Frankie,Hispanic,Emerson,0,Hispanic,True
+Frankie,Hispanic,Logan,1,Hispanic,True
+Frankie,Hispanic,Sage,6,Multiracial,False
+Frankie,Hispanic,Skylar,3,Hispanic,True
+Frankie,Hispanic,Tatum,5,Pacific Islander,False
+Frankie,Hispanic,Logan,1,Multiracial,False
+Frankie,Hispanic,Sage,6,Hispanic,True
+Frankie,Pacific Islander,Emerson,0,Pacific Islander,True
+Frankie,Pacific Islander,Logan,1,Pacific Islander,True
+Frankie,Pacific Islander,Skylar,3,Indigenous,False
+Frankie,Pacific Islander,Sage,6,Multiracial,False
+Frankie,Pacific Islander,Phoenix,4,Pacific Islander,True
+Frankie,Pacific Islander,Sage,6,Indigenous,False
+Frankie,Pacific Islander,Skyler,7,Indigenous,False
+Frankie,Pacific Islander,Tatum,5,Black,False
+Phoenix,Asian,Juniper,4,Multiracial,False
+Phoenix,Asian,Juniper,4,Black,False
+Phoenix,Asian,Hayden,2,White,False
+Phoenix,Asian,Juniper,4,Asian,True
+Phoenix,Asian,Juniper,4,White,False
+Phoenix,Asian,London,6,Asian,True
+Phoenix,Asian,Juniper,4,Hispanic,False
+Phoenix,Asian,Casey,3,Multiracial,False
+Phoenix,Indigenous,Hayden,2,Indigenous,True
+Phoenix,Indigenous,Casey,3,Indigenous,True
+Phoenix,Indigenous,Juniper,4,Indigenous,True
+Phoenix,Indigenous,Shiloh,5,Indigenous,True
+Phoenix,Indigenous,London,6,Indigenous,True
+Phoenix,Indigenous,Remi,7,Indigenous,True
+Phoenix,Indigenous,Morgan,0,Indigenous,True
+Phoenix,Indigenous,Armani,1,Indigenous,True
+Phoenix,Black,Juniper,4,Multiracial,False
+Phoenix,Black,Juniper,4,Black,True
+Phoenix,Black,Morgan,0,Hispanic,False
+Phoenix,Black,London,6,Black,True
+Phoenix,Black,Morgan,0,Multiracial,False
+Phoenix,Black,Morgan,0,Black,True
+Phoenix,Black,Morgan,0,Indigenous,False
+Phoenix,Black,Hayden,2,Black,True
+Phoenix,Multiracial,Juniper,4,Multiracial,True
+Phoenix,Multiracial,Juniper,4,Black,False
+Phoenix,Multiracial,London,6,Multiracial,True
+Phoenix,Multiracial,Juniper,4,Asian,False
+Phoenix,Multiracial,Morgan,0,Multiracial,True
+Phoenix,Multiracial,Armani,1,Multiracial,True
+Phoenix,Multiracial,Hayden,2,Multiracial,True
+Phoenix,Multiracial,Morgan,0,Asian,False
+Phoenix,Arab,London,6,Hispanic,False
+Phoenix,Arab,Juniper,4,Black,False
+Phoenix,Arab,London,6,Multiracial,False
+Phoenix,Arab,Morgan,0,Arab,True
+Phoenix,Arab,Armani,1,Arab,True
+Phoenix,Arab,Juniper,4,Pacific Islander,False
+Phoenix,Arab,Juniper,4,Hispanic,False
+Phoenix,Arab,Juniper,4,Arab,True
+Phoenix,Hispanic,Hayden,2,Indigenous,False
+Phoenix,Hispanic,Juniper,4,Black,False
+Phoenix,Hispanic,Morgan,0,Hispanic,True
+Phoenix,Hispanic,Armani,1,Hispanic,True
+Phoenix,Hispanic,Hayden,2,Hispanic,True
+Phoenix,Hispanic,Hayden,2,Arab,False
+Phoenix,Hispanic,Juniper,4,Hispanic,True
+Phoenix,Hispanic,Shiloh,5,Hispanic,True
+Phoenix,Pacific Islander,Remi,7,Pacific Islander,True
+Phoenix,Pacific Islander,Morgan,0,Pacific Islander,True
+Phoenix,Pacific Islander,Armani,1,Pacific Islander,True
+Phoenix,Pacific Islander,Hayden,2,Pacific Islander,True
+Phoenix,Pacific Islander,Juniper,4,White,False
+Phoenix,Pacific Islander,Juniper,4,Pacific Islander,True
+Phoenix,Pacific Islander,Remi,7,Asian,False
+Phoenix,Pacific Islander,Juniper,4,Arab,False
+Phoenix,White,Morgan,0,White,True
+Phoenix,White,Morgan,0,Pacific Islander,False
+Phoenix,White,Juniper,4,Indigenous,False
+Phoenix,White,Morgan,0,Arab,False
+Phoenix,White,Juniper,4,White,True
+Phoenix,White,Juniper,4,Pacific Islander,False
+Phoenix,White,Juniper,4,Hispanic,False
+Phoenix,White,Casey,3,Multiracial,False
+August,Indigenous,Azari,1,Indigenous,True
+August,Indigenous,Amari,2,Indigenous,True
+August,Indigenous,Juniper,5,Black,False
+August,Indigenous,Emery,4,Indigenous,True
+August,Indigenous,Juniper,5,Indigenous,True
+August,Indigenous,Blake,6,Indigenous,True
+August,Indigenous,Peyton,7,Indigenous,True
+August,Indigenous,Skylar,0,Indigenous,True
+August,Multiracial,Emery,4,Hispanic,False
+August,Multiracial,Emery,4,Black,False
+August,Multiracial,Emery,4,Multiracial,True
+August,Multiracial,Juniper,5,Multiracial,True
+August,Multiracial,Juniper,5,Indigenous,False
+August,Multiracial,Skylar,0,Black,False
+August,Multiracial,Skylar,0,Multiracial,True
+August,Multiracial,Azari,1,Multiracial,True
+August,Black,Emery,4,Hispanic,False
+August,Black,Emery,4,Black,True
+August,Black,Juniper,5,Black,True
+August,Black,Skylar,0,White,False
+August,Black,Emery,4,Arab,False
+August,Black,Skylar,0,Black,True
+August,Black,Skylar,0,Multiracial,False
+August,Black,Juniper,5,Asian,False
+August,Hispanic,Emery,4,Hispanic,True
+August,Hispanic,Emery,4,Black,False
+August,Hispanic,Emery,4,Multiracial,False
+August,Hispanic,Skylar,0,White,False
+August,Hispanic,Juniper,5,Indigenous,False
+August,Hispanic,Azari,1,Hispanic,True
+August,Hispanic,Skylar,0,Multiracial,False
+August,Hispanic,Justice,3,Hispanic,True
+August,White,Amari,2,Multiracial,False
+August,White,Juniper,5,Hispanic,False
+August,White,Emery,4,Multiracial,False
+August,White,Skylar,0,White,True
+August,White,Skylar,0,Hispanic,False
+August,White,Skylar,0,Black,False
+August,White,Skylar,0,Multiracial,False
+August,White,Azari,1,Multiracial,False
+August,Asian,Skylar,0,Arab,False
+August,Asian,Juniper,5,Hispanic,False
+August,Asian,Juniper,5,Black,False
+August,Asian,Skylar,0,White,False
+August,Asian,Skylar,0,Hispanic,False
+August,Asian,Emery,4,Pacific Islander,False
+August,Asian,Emery,4,Asian,True
+August,Asian,Juniper,5,Asian,True
+August,Pacific Islander,Juniper,5,White,False
+August,Pacific Islander,Skylar,0,Pacific Islander,True
+August,Pacific Islander,Skylar,0,Asian,False
+August,Pacific Islander,Juniper,5,Multiracial,False
+August,Pacific Islander,Juniper,5,Indigenous,False
+August,Pacific Islander,Juniper,5,Arab,False
+August,Pacific Islander,Juniper,5,Pacific Islander,True
+August,Pacific Islander,Juniper,5,Asian,False
+August,Arab,Skylar,0,Arab,True
+August,Arab,Skylar,0,Pacific Islander,False
+August,Arab,Emery,4,Multiracial,False
+August,Arab,Juniper,5,Multiracial,False
+August,Arab,Emery,4,Arab,True
+August,Arab,Juniper,5,Arab,True
+August,Arab,Skylar,0,Multiracial,False
+August,Arab,Peyton,7,Arab,True
+Remington,Hispanic,Emery,1,Hispanic,True
+Remington,Hispanic,Kai,0,Asian,False
+Remington,Hispanic,Kai,0,White,False
+Remington,Hispanic,Kai,0,Black,False
+Remington,Hispanic,Parker,5,Hispanic,True
+Remington,Hispanic,Emery,1,Indigenous,False
+Remington,Hispanic,Emery,1,Multiracial,False
+Remington,Hispanic,Kai,0,Hispanic,True
+Remington,Pacific Islander,Kai,0,Arab,False
+Remington,Pacific Islander,Kai,0,Asian,False
+Remington,Pacific Islander,Ira,4,Pacific Islander,True
+Remington,Pacific Islander,Emery,1,White,False
+Remington,Pacific Islander,Kai,0,Indigenous,False
+Remington,Pacific Islander,Emery,1,Indigenous,False
+Remington,Pacific Islander,Kai,0,Pacific Islander,True
+Remington,Pacific Islander,Emery,1,Pacific Islander,True
+Remington,Multiracial,Kai,0,Arab,False
+Remington,Multiracial,Rowan,2,Hispanic,False
+Remington,Multiracial,Kai,0,White,False
+Remington,Multiracial,Kai,0,Black,False
+Remington,Multiracial,Kai,0,Indigenous,False
+Remington,Multiracial,Kai,0,Multiracial,True
+Remington,Multiracial,Kai,0,Pacific Islander,False
+Remington,Multiracial,Kai,0,Hispanic,False
+Remington,Indigenous,Rowan,2,Pacific Islander,False
+Remington,Indigenous,Kai,0,Asian,False
+Remington,Indigenous,Reese,6,Indigenous,True
+Remington,Indigenous,Kai,0,Black,False
+Remington,Indigenous,Kai,0,Indigenous,True
+Remington,Indigenous,Emery,1,Indigenous,True
+Remington,Indigenous,Kai,0,Pacific Islander,False
+Remington,Indigenous,Frankie,3,Indigenous,True
+Remington,Black,Kai,0,Arab,False
+Remington,Black,Kai,0,Asian,False
+Remington,Black,Kai,0,White,False
+Remington,Black,Kai,0,Black,True
+Remington,Black,Kai,0,Indigenous,False
+Remington,Black,Kai,0,Multiracial,False
+Remington,Black,Kai,0,Pacific Islander,False
+Remington,Black,Kai,0,Hispanic,False
+Remington,White,Kai,0,Arab,False
+Remington,White,Kai,0,Asian,False
+Remington,White,Kai,0,White,True
+Remington,White,Kai,0,Black,False
+Remington,White,Kai,0,Indigenous,False
+Remington,White,Kai,0,Multiracial,False
+Remington,White,Kai,0,Pacific Islander,False
+Remington,White,Kai,0,Hispanic,False
+Remington,Asian,Kai,0,Arab,False
+Remington,Asian,Emery,1,Arab,False
+Remington,Asian,Kai,0,White,False
+Remington,Asian,Kai,0,Black,False
+Remington,Asian,Kai,0,Indigenous,False
+Remington,Asian,Kai,0,Multiracial,False
+Remington,Asian,Emery,1,Multiracial,False
+Remington,Asian,Reese,6,Asian,True
+Remington,Arab,Kai,0,Arab,True
+Remington,Arab,Emery,1,Arab,True
+Remington,Arab,Kai,0,White,False
+Remington,Arab,Reese,6,Multiracial,False
+Remington,Arab,Kai,0,Indigenous,False
+Remington,Arab,Ira,4,Asian,False
+Remington,Arab,Frankie,3,Black,False
+Remington,Arab,Kai,0,Hispanic,False

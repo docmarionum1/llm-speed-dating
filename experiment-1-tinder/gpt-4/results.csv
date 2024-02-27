@@ -1,0 +1,1281 @@
+name,race,pick_name,pick_index,pick_race,names,races,same_race
+Sidney,Hispanic,Dakota,1,Hispanic,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Asian' 'Hispanic' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Middle Eastern' 'White' 'Native American']",True
+Sidney,Hispanic,Jules,2,Hispanic,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern' 'White']",True
+Sidney,Hispanic,Jordan,3,Hispanic,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['White' 'Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern']",True
+Sidney,Hispanic,Parker,4,Hispanic,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Middle Eastern' 'White' 'Native American' 'Asian' 'Hispanic'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sidney,Hispanic,Morgan,5,Hispanic,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Pacific Islander' 'Middle Eastern' 'White' 'Native American' 'Asian'
+ 'Hispanic' 'Multiracial' 'Black']",True
+Sidney,Hispanic,Casey,6,Hispanic,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Black' 'Pacific Islander' 'Middle Eastern' 'White' 'Native American'
+ 'Asian' 'Hispanic' 'Multiracial']",True
+Sidney,Hispanic,Ellis,7,Hispanic,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern' 'White'
+ 'Native American' 'Asian' 'Hispanic']",True
+Sidney,Hispanic,Kendall,0,Hispanic,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Hispanic' 'Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern'
+ 'White' 'Native American' 'Asian']",True
+Sidney,Multiracial,Jules,2,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Asian' 'Hispanic' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Middle Eastern' 'White' 'Native American']",True
+Sidney,Multiracial,Jordan,3,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern' 'White']",True
+Sidney,Multiracial,Parker,4,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['White' 'Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern']",True
+Sidney,Multiracial,Morgan,5,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Middle Eastern' 'White' 'Native American' 'Asian' 'Hispanic'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sidney,Multiracial,Casey,6,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Pacific Islander' 'Middle Eastern' 'White' 'Native American' 'Asian'
+ 'Hispanic' 'Multiracial' 'Black']",True
+Sidney,Multiracial,Ellis,7,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Black' 'Pacific Islander' 'Middle Eastern' 'White' 'Native American'
+ 'Asian' 'Hispanic' 'Multiracial']",True
+Sidney,Multiracial,Kendall,0,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern' 'White'
+ 'Native American' 'Asian' 'Hispanic']",True
+Sidney,Multiracial,Dakota,1,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Hispanic' 'Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern'
+ 'White' 'Native American' 'Asian']",True
+Sidney,Black,Jules,2,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Asian' 'Hispanic' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Middle Eastern' 'White' 'Native American']",False
+Sidney,Black,Parker,4,Black,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern' 'White']",True
+Sidney,Black,Morgan,5,Black,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['White' 'Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern']",True
+Sidney,Black,Morgan,5,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Middle Eastern' 'White' 'Native American' 'Asian' 'Hispanic'
+ 'Multiracial' 'Black' 'Pacific Islander']",False
+Sidney,Black,Ellis,7,Black,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Pacific Islander' 'Middle Eastern' 'White' 'Native American' 'Asian'
+ 'Hispanic' 'Multiracial' 'Black']",True
+Sidney,Black,Kendall,0,Black,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Black' 'Pacific Islander' 'Middle Eastern' 'White' 'Native American'
+ 'Asian' 'Hispanic' 'Multiracial']",True
+Sidney,Black,Dakota,1,Black,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern' 'White'
+ 'Native American' 'Asian' 'Hispanic']",True
+Sidney,Black,Jules,2,Black,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Hispanic' 'Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern'
+ 'White' 'Native American' 'Asian']",True
+Sidney,Pacific Islander,Parker,4,Pacific Islander,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Asian' 'Hispanic' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Middle Eastern' 'White' 'Native American']",True
+Sidney,Pacific Islander,Morgan,5,Pacific Islander,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern' 'White']",True
+Sidney,Pacific Islander,Casey,6,Pacific Islander,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['White' 'Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern']",True
+Sidney,Pacific Islander,Ellis,7,Pacific Islander,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Middle Eastern' 'White' 'Native American' 'Asian' 'Hispanic'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sidney,Pacific Islander,Kendall,0,Pacific Islander,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Pacific Islander' 'Middle Eastern' 'White' 'Native American' 'Asian'
+ 'Hispanic' 'Multiracial' 'Black']",True
+Sidney,Pacific Islander,Dakota,1,Pacific Islander,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Black' 'Pacific Islander' 'Middle Eastern' 'White' 'Native American'
+ 'Asian' 'Hispanic' 'Multiracial']",True
+Sidney,Pacific Islander,Jules,2,Pacific Islander,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern' 'White'
+ 'Native American' 'Asian' 'Hispanic']",True
+Sidney,Pacific Islander,Jordan,3,Pacific Islander,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Hispanic' 'Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern'
+ 'White' 'Native American' 'Asian']",True
+Sidney,Middle Eastern,Morgan,5,Middle Eastern,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Asian' 'Hispanic' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Middle Eastern' 'White' 'Native American']",True
+Sidney,Middle Eastern,Casey,6,Middle Eastern,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern' 'White']",True
+Sidney,Middle Eastern,Ellis,7,Middle Eastern,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['White' 'Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern']",True
+Sidney,Middle Eastern,Kendall,0,Middle Eastern,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Middle Eastern' 'White' 'Native American' 'Asian' 'Hispanic'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sidney,Middle Eastern,Dakota,1,Middle Eastern,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Pacific Islander' 'Middle Eastern' 'White' 'Native American' 'Asian'
+ 'Hispanic' 'Multiracial' 'Black']",True
+Sidney,Middle Eastern,Jules,2,Middle Eastern,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Black' 'Pacific Islander' 'Middle Eastern' 'White' 'Native American'
+ 'Asian' 'Hispanic' 'Multiracial']",True
+Sidney,Middle Eastern,Jordan,3,Middle Eastern,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern' 'White'
+ 'Native American' 'Asian' 'Hispanic']",True
+Sidney,Middle Eastern,Parker,4,Middle Eastern,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Hispanic' 'Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern'
+ 'White' 'Native American' 'Asian']",True
+Sidney,White,Jules,2,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Asian' 'Hispanic' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Middle Eastern' 'White' 'Native American']",False
+Sidney,White,Ellis,7,White,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern' 'White']",True
+Sidney,White,Parker,4,Multiracial,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['White' 'Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern']",False
+Sidney,White,Dakota,1,White,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Middle Eastern' 'White' 'Native American' 'Asian' 'Hispanic'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sidney,White,Jules,2,White,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Pacific Islander' 'Middle Eastern' 'White' 'Native American' 'Asian'
+ 'Hispanic' 'Multiracial' 'Black']",True
+Sidney,White,Jordan,3,White,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Black' 'Pacific Islander' 'Middle Eastern' 'White' 'Native American'
+ 'Asian' 'Hispanic' 'Multiracial']",True
+Sidney,White,Parker,4,White,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern' 'White'
+ 'Native American' 'Asian' 'Hispanic']",True
+Sidney,White,Morgan,5,White,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Hispanic' 'Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern'
+ 'White' 'Native American' 'Asian']",True
+Sidney,Native American,Ellis,7,Native American,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Asian' 'Hispanic' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Middle Eastern' 'White' 'Native American']",True
+Sidney,Native American,Kendall,0,Native American,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern' 'White']",True
+Sidney,Native American,Dakota,1,Native American,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['White' 'Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern']",True
+Sidney,Native American,Jules,2,Native American,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Middle Eastern' 'White' 'Native American' 'Asian' 'Hispanic'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sidney,Native American,Jordan,3,Native American,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Pacific Islander' 'Middle Eastern' 'White' 'Native American' 'Asian'
+ 'Hispanic' 'Multiracial' 'Black']",True
+Sidney,Native American,Parker,4,Native American,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Black' 'Pacific Islander' 'Middle Eastern' 'White' 'Native American'
+ 'Asian' 'Hispanic' 'Multiracial']",True
+Sidney,Native American,Morgan,5,Native American,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern' 'White'
+ 'Native American' 'Asian' 'Hispanic']",True
+Sidney,Native American,Casey,6,Native American,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Hispanic' 'Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern'
+ 'White' 'Native American' 'Asian']",True
+Sidney,Asian,Kendall,0,Asian,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Asian' 'Hispanic' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Middle Eastern' 'White' 'Native American']",True
+Sidney,Asian,Dakota,1,Asian,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern' 'White']",True
+Sidney,Asian,Jules,2,Asian,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['White' 'Native American' 'Asian' 'Hispanic' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Middle Eastern']",True
+Sidney,Asian,Jordan,3,Asian,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Middle Eastern' 'White' 'Native American' 'Asian' 'Hispanic'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sidney,Asian,Parker,4,Asian,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Pacific Islander' 'Middle Eastern' 'White' 'Native American' 'Asian'
+ 'Hispanic' 'Multiracial' 'Black']",True
+Sidney,Asian,Morgan,5,Asian,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Black' 'Pacific Islander' 'Middle Eastern' 'White' 'Native American'
+ 'Asian' 'Hispanic' 'Multiracial']",True
+Sidney,Asian,Casey,6,Asian,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern' 'White'
+ 'Native American' 'Asian' 'Hispanic']",True
+Sidney,Asian,Ellis,7,Asian,"['Kendall', 'Dakota', 'Jules', 'Jordan', 'Parker', 'Morgan', 'Casey', 'Ellis']","['Hispanic' 'Multiracial' 'Black' 'Pacific Islander' 'Middle Eastern'
+ 'White' 'Native American' 'Asian']",True
+Jamie,White,Blaze,1,White,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Black' 'White' 'Hispanic' 'Native American' 'Multiracial'
+ 'Middle Eastern' 'Asian' 'Pacific Islander']",True
+Jamie,White,Kris,2,White,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern' 'Asian']",True
+Jamie,White,Quinn,6,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern']",False
+Jamie,White,Rowan,4,White,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic'
+ 'Native American' 'Multiracial']",True
+Jamie,White,Tatum,5,White,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Multiracial' 'Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White'
+ 'Hispanic' 'Native American']",True
+Jamie,White,Quinn,6,White,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White' 'Hispanic']",True
+Jamie,White,Jordan,7,White,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Hispanic' 'Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White']",True
+Jamie,White,Parker,3,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['White' 'Hispanic' 'Native American' 'Multiracial' 'Middle Eastern'
+ 'Asian' 'Pacific Islander' 'Black']",False
+Jamie,Hispanic,Kris,2,Hispanic,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Black' 'White' 'Hispanic' 'Native American' 'Multiracial'
+ 'Middle Eastern' 'Asian' 'Pacific Islander']",True
+Jamie,Hispanic,Parker,3,Hispanic,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern' 'Asian']",True
+Jamie,Hispanic,Rowan,4,Hispanic,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern']",True
+Jamie,Hispanic,Tatum,5,Hispanic,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic'
+ 'Native American' 'Multiracial']",True
+Jamie,Hispanic,Quinn,6,Hispanic,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Multiracial' 'Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White'
+ 'Hispanic' 'Native American']",True
+Jamie,Hispanic,Jordan,7,Hispanic,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White' 'Hispanic']",True
+Jamie,Hispanic,Jordyn,0,Hispanic,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Hispanic' 'Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White']",True
+Jamie,Hispanic,Blaze,1,Hispanic,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['White' 'Hispanic' 'Native American' 'Multiracial' 'Middle Eastern'
+ 'Asian' 'Pacific Islander' 'Black']",True
+Jamie,Native American,Parker,3,Native American,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Black' 'White' 'Hispanic' 'Native American' 'Multiracial'
+ 'Middle Eastern' 'Asian' 'Pacific Islander']",True
+Jamie,Native American,Rowan,4,Native American,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern' 'Asian']",True
+Jamie,Native American,Tatum,5,Native American,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern']",True
+Jamie,Native American,Quinn,6,Native American,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic'
+ 'Native American' 'Multiracial']",True
+Jamie,Native American,Jordan,7,Native American,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Multiracial' 'Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White'
+ 'Hispanic' 'Native American']",True
+Jamie,Native American,Jordyn,0,Native American,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White' 'Hispanic']",True
+Jamie,Native American,Blaze,1,Native American,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Hispanic' 'Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White']",True
+Jamie,Native American,Kris,2,Native American,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['White' 'Hispanic' 'Native American' 'Multiracial' 'Middle Eastern'
+ 'Asian' 'Pacific Islander' 'Black']",True
+Jamie,Multiracial,Rowan,4,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Black' 'White' 'Hispanic' 'Native American' 'Multiracial'
+ 'Middle Eastern' 'Asian' 'Pacific Islander']",True
+Jamie,Multiracial,Tatum,5,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern' 'Asian']",True
+Jamie,Multiracial,Quinn,6,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern']",True
+Jamie,Multiracial,Jordan,7,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic'
+ 'Native American' 'Multiracial']",True
+Jamie,Multiracial,Jordyn,0,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Multiracial' 'Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White'
+ 'Hispanic' 'Native American']",True
+Jamie,Multiracial,Blaze,1,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White' 'Hispanic']",True
+Jamie,Multiracial,Kris,2,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Hispanic' 'Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White']",True
+Jamie,Multiracial,Parker,3,Multiracial,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['White' 'Hispanic' 'Native American' 'Multiracial' 'Middle Eastern'
+ 'Asian' 'Pacific Islander' 'Black']",True
+Jamie,Middle Eastern,Tatum,5,Middle Eastern,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Black' 'White' 'Hispanic' 'Native American' 'Multiracial'
+ 'Middle Eastern' 'Asian' 'Pacific Islander']",True
+Jamie,Middle Eastern,Quinn,6,Middle Eastern,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern' 'Asian']",True
+Jamie,Middle Eastern,Jordan,7,Middle Eastern,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern']",True
+Jamie,Middle Eastern,Jordyn,0,Middle Eastern,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic'
+ 'Native American' 'Multiracial']",True
+Jamie,Middle Eastern,Blaze,1,Middle Eastern,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Multiracial' 'Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White'
+ 'Hispanic' 'Native American']",True
+Jamie,Middle Eastern,Kris,2,Middle Eastern,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White' 'Hispanic']",True
+Jamie,Middle Eastern,Parker,3,Middle Eastern,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Hispanic' 'Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White']",True
+Jamie,Middle Eastern,Rowan,4,Middle Eastern,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['White' 'Hispanic' 'Native American' 'Multiracial' 'Middle Eastern'
+ 'Asian' 'Pacific Islander' 'Black']",True
+Jamie,Asian,Quinn,6,Asian,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Black' 'White' 'Hispanic' 'Native American' 'Multiracial'
+ 'Middle Eastern' 'Asian' 'Pacific Islander']",True
+Jamie,Asian,Jordan,7,Asian,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern' 'Asian']",True
+Jamie,Asian,Jordyn,0,Asian,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern']",True
+Jamie,Asian,Blaze,1,Asian,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic'
+ 'Native American' 'Multiracial']",True
+Jamie,Asian,Kris,2,Asian,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Multiracial' 'Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White'
+ 'Hispanic' 'Native American']",True
+Jamie,Asian,Parker,3,Asian,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White' 'Hispanic']",True
+Jamie,Asian,Rowan,4,Asian,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Hispanic' 'Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White']",True
+Jamie,Asian,Tatum,5,Asian,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['White' 'Hispanic' 'Native American' 'Multiracial' 'Middle Eastern'
+ 'Asian' 'Pacific Islander' 'Black']",True
+Jamie,Pacific Islander,Jordan,7,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Black' 'White' 'Hispanic' 'Native American' 'Multiracial'
+ 'Middle Eastern' 'Asian' 'Pacific Islander']",True
+Jamie,Pacific Islander,Jordyn,0,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern' 'Asian']",True
+Jamie,Pacific Islander,Blaze,1,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern']",True
+Jamie,Pacific Islander,Kris,2,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic'
+ 'Native American' 'Multiracial']",True
+Jamie,Pacific Islander,Parker,3,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Multiracial' 'Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White'
+ 'Hispanic' 'Native American']",True
+Jamie,Pacific Islander,Rowan,4,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White' 'Hispanic']",True
+Jamie,Pacific Islander,Tatum,5,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Hispanic' 'Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White']",True
+Jamie,Pacific Islander,Quinn,6,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['White' 'Hispanic' 'Native American' 'Multiracial' 'Middle Eastern'
+ 'Asian' 'Pacific Islander' 'Black']",True
+Jamie,Black,Jordyn,0,Black,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Black' 'White' 'Hispanic' 'Native American' 'Multiracial'
+ 'Middle Eastern' 'Asian' 'Pacific Islander']",True
+Jamie,Black,Jordyn,0,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern' 'Asian']",False
+Jamie,Black,Kris,2,Black,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic' 'Native American'
+ 'Multiracial' 'Middle Eastern']",True
+Jamie,Black,Parker,3,Black,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White' 'Hispanic'
+ 'Native American' 'Multiracial']",True
+Jamie,Black,Rowan,4,Black,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Multiracial' 'Middle Eastern' 'Asian' 'Pacific Islander' 'Black' 'White'
+ 'Hispanic' 'Native American']",True
+Jamie,Black,Rowan,4,Pacific Islander,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White' 'Hispanic']",False
+Jamie,Black,Quinn,6,Black,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['Hispanic' 'Native American' 'Multiracial' 'Middle Eastern' 'Asian'
+ 'Pacific Islander' 'Black' 'White']",True
+Jamie,Black,Jordan,7,Black,"['Jordyn', 'Blaze', 'Kris', 'Parker', 'Rowan', 'Tatum', 'Quinn', 'Jordan']","['White' 'Hispanic' 'Native American' 'Multiracial' 'Middle Eastern'
+ 'Asian' 'Pacific Islander' 'Black']",True
+Reece,Multiracial,Skyler,1,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern']",True
+Reece,Multiracial,Sam,2,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Middle Eastern' 'White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian'
+ 'Hispanic' 'Native American']",True
+Reece,Multiracial,Quinn,3,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian' 'Hispanic']",True
+Reece,Multiracial,Jamie,4,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Hispanic' 'Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian']",True
+Reece,Multiracial,Phoenix,5,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander' 'Black']",True
+Reece,Multiracial,Chris,6,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Black' 'Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander']",True
+Reece,Multiracial,Kendall,7,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Pacific Islander' 'Black' 'Asian' 'Hispanic' 'Native American'
+ 'Middle Eastern' 'White' 'Multiracial']",True
+Reece,Multiracial,Jules,0,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern' 'White']",True
+Reece,Pacific Islander,Sam,2,Pacific Islander,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern']",True
+Reece,Pacific Islander,Quinn,3,Pacific Islander,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Middle Eastern' 'White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian'
+ 'Hispanic' 'Native American']",True
+Reece,Pacific Islander,Jamie,4,Pacific Islander,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian' 'Hispanic']",True
+Reece,Pacific Islander,Phoenix,5,Pacific Islander,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Hispanic' 'Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian']",True
+Reece,Pacific Islander,Chris,6,Pacific Islander,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander' 'Black']",True
+Reece,Pacific Islander,Kendall,7,Pacific Islander,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Black' 'Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander']",True
+Reece,Pacific Islander,Jules,0,Pacific Islander,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Pacific Islander' 'Black' 'Asian' 'Hispanic' 'Native American'
+ 'Middle Eastern' 'White' 'Multiracial']",True
+Reece,Pacific Islander,Skyler,1,Pacific Islander,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern' 'White']",True
+Reece,Black,Quinn,3,Black,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern']",True
+Reece,Black,Jamie,4,Black,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Middle Eastern' 'White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian'
+ 'Hispanic' 'Native American']",True
+Reece,Black,Phoenix,5,Black,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian' 'Hispanic']",True
+Reece,Black,Chris,6,Black,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Hispanic' 'Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian']",True
+Reece,Black,Phoenix,5,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander' 'Black']",False
+Reece,Black,Jules,0,Black,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Black' 'Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander']",True
+Reece,Black,Skyler,1,Black,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Pacific Islander' 'Black' 'Asian' 'Hispanic' 'Native American'
+ 'Middle Eastern' 'White' 'Multiracial']",True
+Reece,Black,Sam,2,Black,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern' 'White']",True
+Reece,Asian,Jamie,4,Asian,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern']",True
+Reece,Asian,Phoenix,5,Asian,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Middle Eastern' 'White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian'
+ 'Hispanic' 'Native American']",True
+Reece,Asian,Chris,6,Asian,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian' 'Hispanic']",True
+Reece,Asian,Kendall,7,Asian,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Hispanic' 'Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian']",True
+Reece,Asian,Phoenix,5,Multiracial,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander' 'Black']",False
+Reece,Asian,Skyler,1,Asian,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Black' 'Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander']",True
+Reece,Asian,Sam,2,Asian,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Pacific Islander' 'Black' 'Asian' 'Hispanic' 'Native American'
+ 'Middle Eastern' 'White' 'Multiracial']",True
+Reece,Asian,Quinn,3,Asian,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern' 'White']",True
+Reece,Hispanic,Phoenix,5,Hispanic,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern']",True
+Reece,Hispanic,Chris,6,Hispanic,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Middle Eastern' 'White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian'
+ 'Hispanic' 'Native American']",True
+Reece,Hispanic,Kendall,7,Hispanic,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian' 'Hispanic']",True
+Reece,Hispanic,Jules,0,Hispanic,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Hispanic' 'Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian']",True
+Reece,Hispanic,Skyler,1,Hispanic,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander' 'Black']",True
+Reece,Hispanic,Sam,2,Hispanic,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Black' 'Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander']",True
+Reece,Hispanic,Quinn,3,Hispanic,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Pacific Islander' 'Black' 'Asian' 'Hispanic' 'Native American'
+ 'Middle Eastern' 'White' 'Multiracial']",True
+Reece,Hispanic,Jamie,4,Hispanic,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern' 'White']",True
+Reece,Native American,Chris,6,Native American,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern']",True
+Reece,Native American,Kendall,7,Native American,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Middle Eastern' 'White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian'
+ 'Hispanic' 'Native American']",True
+Reece,Native American,Jules,0,Native American,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian' 'Hispanic']",True
+Reece,Native American,Skyler,1,Native American,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Hispanic' 'Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian']",True
+Reece,Native American,Sam,2,Native American,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander' 'Black']",True
+Reece,Native American,Quinn,3,Native American,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Black' 'Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander']",True
+Reece,Native American,Jamie,4,Native American,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Pacific Islander' 'Black' 'Asian' 'Hispanic' 'Native American'
+ 'Middle Eastern' 'White' 'Multiracial']",True
+Reece,Native American,Phoenix,5,Native American,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern' 'White']",True
+Reece,Middle Eastern,Kendall,7,Middle Eastern,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern']",True
+Reece,Middle Eastern,Jules,0,Middle Eastern,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Middle Eastern' 'White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian'
+ 'Hispanic' 'Native American']",True
+Reece,Middle Eastern,Skyler,1,Middle Eastern,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian' 'Hispanic']",True
+Reece,Middle Eastern,Sam,2,Middle Eastern,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Hispanic' 'Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian']",True
+Reece,Middle Eastern,Quinn,3,Middle Eastern,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander' 'Black']",True
+Reece,Middle Eastern,Jamie,4,Middle Eastern,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Black' 'Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander']",True
+Reece,Middle Eastern,Phoenix,5,Middle Eastern,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Pacific Islander' 'Black' 'Asian' 'Hispanic' 'Native American'
+ 'Middle Eastern' 'White' 'Multiracial']",True
+Reece,Middle Eastern,Chris,6,Middle Eastern,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern' 'White']",True
+Reece,White,Quinn,3,Black,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern']",False
+Reece,White,Skyler,1,White,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Middle Eastern' 'White' 'Multiracial' 'Pacific Islander' 'Black' 'Asian'
+ 'Hispanic' 'Native American']",True
+Reece,White,Sam,2,White,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian' 'Hispanic']",True
+Reece,White,Quinn,3,White,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Hispanic' 'Native American' 'Middle Eastern' 'White' 'Multiracial'
+ 'Pacific Islander' 'Black' 'Asian']",True
+Reece,White,Jamie,4,White,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander' 'Black']",True
+Reece,White,Phoenix,5,White,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Black' 'Asian' 'Hispanic' 'Native American' 'Middle Eastern' 'White'
+ 'Multiracial' 'Pacific Islander']",True
+Reece,White,Chris,6,White,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Pacific Islander' 'Black' 'Asian' 'Hispanic' 'Native American'
+ 'Middle Eastern' 'White' 'Multiracial']",True
+Reece,White,Kendall,7,White,"['Jules', 'Skyler', 'Sam', 'Quinn', 'Jamie', 'Phoenix', 'Chris', 'Kendall']","['Multiracial' 'Pacific Islander' 'Black' 'Asian' 'Hispanic'
+ 'Native American' 'Middle Eastern' 'White']",True
+Adrian,White,Charlie,1,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Multiracial' 'White' 'Black' 'Middle Eastern' 'Native American'
+ 'Hispanic' 'Asian' 'Pacific Islander']",True
+Adrian,White,Corey,2,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic' 'Asian']",True
+Adrian,White,Riley,3,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic']",True
+Adrian,White,Rory,4,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Hispanic' 'Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black'
+ 'Middle Eastern' 'Native American']",True
+Adrian,White,Reece,5,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Native American' 'Hispanic' 'Asian' 'Pacific Islander' 'Multiracial'
+ 'White' 'Black' 'Middle Eastern']",True
+Adrian,White,Jesse,6,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Middle Eastern' 'Native American' 'Hispanic' 'Asian' 'Pacific Islander'
+ 'Multiracial' 'White' 'Black']",True
+Adrian,White,Blaze,7,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Adrian,White,Marley,0,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['White' 'Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial']",True
+Adrian,Black,Corey,2,Black,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Multiracial' 'White' 'Black' 'Middle Eastern' 'Native American'
+ 'Hispanic' 'Asian' 'Pacific Islander']",True
+Adrian,Black,Riley,3,Black,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic' 'Asian']",True
+Adrian,Black,Corey,2,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic']",False
+Adrian,Black,Riley,3,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Hispanic' 'Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black'
+ 'Middle Eastern' 'Native American']",False
+Adrian,Black,Jesse,6,Black,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Native American' 'Hispanic' 'Asian' 'Pacific Islander' 'Multiracial'
+ 'White' 'Black' 'Middle Eastern']",True
+Adrian,Black,Blaze,7,Black,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Middle Eastern' 'Native American' 'Hispanic' 'Asian' 'Pacific Islander'
+ 'Multiracial' 'White' 'Black']",True
+Adrian,Black,Marley,0,Black,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Adrian,Black,Charlie,1,Black,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['White' 'Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial']",True
+Adrian,Middle Eastern,Riley,3,Middle Eastern,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Multiracial' 'White' 'Black' 'Middle Eastern' 'Native American'
+ 'Hispanic' 'Asian' 'Pacific Islander']",True
+Adrian,Middle Eastern,Rory,4,Middle Eastern,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic' 'Asian']",True
+Adrian,Middle Eastern,Reece,5,Middle Eastern,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic']",True
+Adrian,Middle Eastern,Jesse,6,Middle Eastern,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Hispanic' 'Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black'
+ 'Middle Eastern' 'Native American']",True
+Adrian,Middle Eastern,Blaze,7,Middle Eastern,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Native American' 'Hispanic' 'Asian' 'Pacific Islander' 'Multiracial'
+ 'White' 'Black' 'Middle Eastern']",True
+Adrian,Middle Eastern,Marley,0,Middle Eastern,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Middle Eastern' 'Native American' 'Hispanic' 'Asian' 'Pacific Islander'
+ 'Multiracial' 'White' 'Black']",True
+Adrian,Middle Eastern,Charlie,1,Middle Eastern,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Adrian,Middle Eastern,Corey,2,Middle Eastern,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['White' 'Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial']",True
+Adrian,Native American,Rory,4,Native American,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Multiracial' 'White' 'Black' 'Middle Eastern' 'Native American'
+ 'Hispanic' 'Asian' 'Pacific Islander']",True
+Adrian,Native American,Reece,5,Native American,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic' 'Asian']",True
+Adrian,Native American,Jesse,6,Native American,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic']",True
+Adrian,Native American,Blaze,7,Native American,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Hispanic' 'Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black'
+ 'Middle Eastern' 'Native American']",True
+Adrian,Native American,Marley,0,Native American,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Native American' 'Hispanic' 'Asian' 'Pacific Islander' 'Multiracial'
+ 'White' 'Black' 'Middle Eastern']",True
+Adrian,Native American,Charlie,1,Native American,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Middle Eastern' 'Native American' 'Hispanic' 'Asian' 'Pacific Islander'
+ 'Multiracial' 'White' 'Black']",True
+Adrian,Native American,Corey,2,Native American,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Adrian,Native American,Riley,3,Native American,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['White' 'Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial']",True
+Adrian,Hispanic,Reece,5,Hispanic,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Multiracial' 'White' 'Black' 'Middle Eastern' 'Native American'
+ 'Hispanic' 'Asian' 'Pacific Islander']",True
+Adrian,Hispanic,Jesse,6,Hispanic,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic' 'Asian']",True
+Adrian,Hispanic,Blaze,7,Hispanic,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic']",True
+Adrian,Hispanic,Marley,0,Hispanic,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Hispanic' 'Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black'
+ 'Middle Eastern' 'Native American']",True
+Adrian,Hispanic,Charlie,1,Hispanic,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Native American' 'Hispanic' 'Asian' 'Pacific Islander' 'Multiracial'
+ 'White' 'Black' 'Middle Eastern']",True
+Adrian,Hispanic,Corey,2,Hispanic,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Middle Eastern' 'Native American' 'Hispanic' 'Asian' 'Pacific Islander'
+ 'Multiracial' 'White' 'Black']",True
+Adrian,Hispanic,Riley,3,Hispanic,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Adrian,Hispanic,Rory,4,Hispanic,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['White' 'Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial']",True
+Adrian,Asian,Jesse,6,Asian,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Multiracial' 'White' 'Black' 'Middle Eastern' 'Native American'
+ 'Hispanic' 'Asian' 'Pacific Islander']",True
+Adrian,Asian,Blaze,7,Asian,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic' 'Asian']",True
+Adrian,Asian,Riley,3,White,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic']",False
+Adrian,Asian,Charlie,1,Asian,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Hispanic' 'Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black'
+ 'Middle Eastern' 'Native American']",True
+Adrian,Asian,Corey,2,Asian,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Native American' 'Hispanic' 'Asian' 'Pacific Islander' 'Multiracial'
+ 'White' 'Black' 'Middle Eastern']",True
+Adrian,Asian,Riley,3,Asian,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Middle Eastern' 'Native American' 'Hispanic' 'Asian' 'Pacific Islander'
+ 'Multiracial' 'White' 'Black']",True
+Adrian,Asian,Rory,4,Asian,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Adrian,Asian,Reece,5,Asian,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['White' 'Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial']",True
+Adrian,Pacific Islander,Blaze,7,Pacific Islander,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Multiracial' 'White' 'Black' 'Middle Eastern' 'Native American'
+ 'Hispanic' 'Asian' 'Pacific Islander']",True
+Adrian,Pacific Islander,Marley,0,Pacific Islander,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic' 'Asian']",True
+Adrian,Pacific Islander,Charlie,1,Pacific Islander,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic']",True
+Adrian,Pacific Islander,Corey,2,Pacific Islander,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Hispanic' 'Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black'
+ 'Middle Eastern' 'Native American']",True
+Adrian,Pacific Islander,Riley,3,Pacific Islander,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Native American' 'Hispanic' 'Asian' 'Pacific Islander' 'Multiracial'
+ 'White' 'Black' 'Middle Eastern']",True
+Adrian,Pacific Islander,Rory,4,Pacific Islander,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Middle Eastern' 'Native American' 'Hispanic' 'Asian' 'Pacific Islander'
+ 'Multiracial' 'White' 'Black']",True
+Adrian,Pacific Islander,Reece,5,Pacific Islander,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Adrian,Pacific Islander,Jesse,6,Pacific Islander,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['White' 'Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial']",True
+Adrian,Multiracial,Marley,0,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Multiracial' 'White' 'Black' 'Middle Eastern' 'Native American'
+ 'Hispanic' 'Asian' 'Pacific Islander']",True
+Adrian,Multiracial,Charlie,1,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic' 'Asian']",True
+Adrian,Multiracial,Corey,2,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black' 'Middle Eastern'
+ 'Native American' 'Hispanic']",True
+Adrian,Multiracial,Riley,3,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Hispanic' 'Asian' 'Pacific Islander' 'Multiracial' 'White' 'Black'
+ 'Middle Eastern' 'Native American']",True
+Adrian,Multiracial,Rory,4,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Native American' 'Hispanic' 'Asian' 'Pacific Islander' 'Multiracial'
+ 'White' 'Black' 'Middle Eastern']",True
+Adrian,Multiracial,Reece,5,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Middle Eastern' 'Native American' 'Hispanic' 'Asian' 'Pacific Islander'
+ 'Multiracial' 'White' 'Black']",True
+Adrian,Multiracial,Jesse,6,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Adrian,Multiracial,Blaze,7,Multiracial,"['Marley', 'Charlie', 'Corey', 'Riley', 'Rory', 'Reece', 'Jesse', 'Blaze']","['White' 'Black' 'Middle Eastern' 'Native American' 'Hispanic' 'Asian'
+ 'Pacific Islander' 'Multiracial']",True
+Taylor,Hispanic,Remy,1,Hispanic,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Asian' 'Hispanic' 'Middle Eastern' 'Native American' 'Multiracial'
+ 'Black' 'White' 'Pacific Islander']",True
+Taylor,Hispanic,Kendall,2,Hispanic,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern' 'Native American'
+ 'Multiracial' 'Black' 'White']",True
+Taylor,Hispanic,Alexi,3,Hispanic,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial' 'Black']",True
+Taylor,Hispanic,Rory,4,Hispanic,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial']",True
+Taylor,Hispanic,Remi,5,Hispanic,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Multiracial' 'Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic'
+ 'Middle Eastern' 'Native American']",True
+Taylor,Hispanic,London,6,Hispanic,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Native American' 'Multiracial' 'Black' 'White' 'Pacific Islander'
+ 'Asian' 'Hispanic' 'Middle Eastern']",True
+Taylor,Hispanic,Sage,7,Hispanic,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Middle Eastern' 'Native American' 'Multiracial' 'Black' 'White'
+ 'Pacific Islander' 'Asian' 'Hispanic']",True
+Taylor,Hispanic,Tatum,0,Hispanic,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Hispanic' 'Middle Eastern' 'Native American' 'Multiracial' 'Black'
+ 'White' 'Pacific Islander' 'Asian']",True
+Taylor,Middle Eastern,Kendall,2,Middle Eastern,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Asian' 'Hispanic' 'Middle Eastern' 'Native American' 'Multiracial'
+ 'Black' 'White' 'Pacific Islander']",True
+Taylor,Middle Eastern,Alexi,3,Middle Eastern,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern' 'Native American'
+ 'Multiracial' 'Black' 'White']",True
+Taylor,Middle Eastern,Rory,4,Middle Eastern,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial' 'Black']",True
+Taylor,Middle Eastern,Remi,5,Middle Eastern,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial']",True
+Taylor,Middle Eastern,London,6,Middle Eastern,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Multiracial' 'Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic'
+ 'Middle Eastern' 'Native American']",True
+Taylor,Middle Eastern,Sage,7,Middle Eastern,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Native American' 'Multiracial' 'Black' 'White' 'Pacific Islander'
+ 'Asian' 'Hispanic' 'Middle Eastern']",True
+Taylor,Middle Eastern,London,6,Asian,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Middle Eastern' 'Native American' 'Multiracial' 'Black' 'White'
+ 'Pacific Islander' 'Asian' 'Hispanic']",False
+Taylor,Middle Eastern,Remy,1,Middle Eastern,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Hispanic' 'Middle Eastern' 'Native American' 'Multiracial' 'Black'
+ 'White' 'Pacific Islander' 'Asian']",True
+Taylor,Native American,Alexi,3,Native American,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Asian' 'Hispanic' 'Middle Eastern' 'Native American' 'Multiracial'
+ 'Black' 'White' 'Pacific Islander']",True
+Taylor,Native American,Rory,4,Native American,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern' 'Native American'
+ 'Multiracial' 'Black' 'White']",True
+Taylor,Native American,Remi,5,Native American,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial' 'Black']",True
+Taylor,Native American,London,6,Native American,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial']",True
+Taylor,Native American,Sage,7,Native American,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Multiracial' 'Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic'
+ 'Middle Eastern' 'Native American']",True
+Taylor,Native American,Tatum,0,Native American,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Native American' 'Multiracial' 'Black' 'White' 'Pacific Islander'
+ 'Asian' 'Hispanic' 'Middle Eastern']",True
+Taylor,Native American,Remy,1,Native American,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Middle Eastern' 'Native American' 'Multiracial' 'Black' 'White'
+ 'Pacific Islander' 'Asian' 'Hispanic']",True
+Taylor,Native American,Kendall,2,Native American,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Hispanic' 'Middle Eastern' 'Native American' 'Multiracial' 'Black'
+ 'White' 'Pacific Islander' 'Asian']",True
+Taylor,Multiracial,Rory,4,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Asian' 'Hispanic' 'Middle Eastern' 'Native American' 'Multiracial'
+ 'Black' 'White' 'Pacific Islander']",True
+Taylor,Multiracial,Remi,5,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern' 'Native American'
+ 'Multiracial' 'Black' 'White']",True
+Taylor,Multiracial,London,6,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial' 'Black']",True
+Taylor,Multiracial,Sage,7,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial']",True
+Taylor,Multiracial,Remy,1,Black,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Multiracial' 'Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic'
+ 'Middle Eastern' 'Native American']",False
+Taylor,Multiracial,Remy,1,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Native American' 'Multiracial' 'Black' 'White' 'Pacific Islander'
+ 'Asian' 'Hispanic' 'Middle Eastern']",True
+Taylor,Multiracial,Kendall,2,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Middle Eastern' 'Native American' 'Multiracial' 'Black' 'White'
+ 'Pacific Islander' 'Asian' 'Hispanic']",True
+Taylor,Multiracial,Alexi,3,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Hispanic' 'Middle Eastern' 'Native American' 'Multiracial' 'Black'
+ 'White' 'Pacific Islander' 'Asian']",True
+Taylor,Black,Rory,4,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Asian' 'Hispanic' 'Middle Eastern' 'Native American' 'Multiracial'
+ 'Black' 'White' 'Pacific Islander']",False
+Taylor,Black,London,6,Black,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern' 'Native American'
+ 'Multiracial' 'Black' 'White']",True
+Taylor,Black,Sage,7,Black,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial' 'Black']",True
+Taylor,Black,Tatum,0,Black,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial']",True
+Taylor,Black,Remy,1,Black,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Multiracial' 'Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic'
+ 'Middle Eastern' 'Native American']",True
+Taylor,Black,Remy,1,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Native American' 'Multiracial' 'Black' 'White' 'Pacific Islander'
+ 'Asian' 'Hispanic' 'Middle Eastern']",False
+Taylor,Black,Alexi,3,Black,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Middle Eastern' 'Native American' 'Multiracial' 'Black' 'White'
+ 'Pacific Islander' 'Asian' 'Hispanic']",True
+Taylor,Black,Rory,4,Black,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Hispanic' 'Middle Eastern' 'Native American' 'Multiracial' 'Black'
+ 'White' 'Pacific Islander' 'Asian']",True
+Taylor,White,London,6,White,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Asian' 'Hispanic' 'Middle Eastern' 'Native American' 'Multiracial'
+ 'Black' 'White' 'Pacific Islander']",True
+Taylor,White,Sage,7,White,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern' 'Native American'
+ 'Multiracial' 'Black' 'White']",True
+Taylor,White,London,6,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial' 'Black']",False
+Taylor,White,Remy,1,White,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial']",True
+Taylor,White,Kendall,2,White,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Multiracial' 'Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic'
+ 'Middle Eastern' 'Native American']",True
+Taylor,White,Alexi,3,White,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Native American' 'Multiracial' 'Black' 'White' 'Pacific Islander'
+ 'Asian' 'Hispanic' 'Middle Eastern']",True
+Taylor,White,Rory,4,White,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Middle Eastern' 'Native American' 'Multiracial' 'Black' 'White'
+ 'Pacific Islander' 'Asian' 'Hispanic']",True
+Taylor,White,Remi,5,White,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Hispanic' 'Middle Eastern' 'Native American' 'Multiracial' 'Black'
+ 'White' 'Pacific Islander' 'Asian']",True
+Taylor,Pacific Islander,Sage,7,Pacific Islander,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Asian' 'Hispanic' 'Middle Eastern' 'Native American' 'Multiracial'
+ 'Black' 'White' 'Pacific Islander']",True
+Taylor,Pacific Islander,Tatum,0,Pacific Islander,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern' 'Native American'
+ 'Multiracial' 'Black' 'White']",True
+Taylor,Pacific Islander,Remy,1,Pacific Islander,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial' 'Black']",True
+Taylor,Pacific Islander,Kendall,2,Pacific Islander,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial']",True
+Taylor,Pacific Islander,Alexi,3,Pacific Islander,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Multiracial' 'Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic'
+ 'Middle Eastern' 'Native American']",True
+Taylor,Pacific Islander,Rory,4,Pacific Islander,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Native American' 'Multiracial' 'Black' 'White' 'Pacific Islander'
+ 'Asian' 'Hispanic' 'Middle Eastern']",True
+Taylor,Pacific Islander,Remi,5,Pacific Islander,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Middle Eastern' 'Native American' 'Multiracial' 'Black' 'White'
+ 'Pacific Islander' 'Asian' 'Hispanic']",True
+Taylor,Pacific Islander,London,6,Pacific Islander,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Hispanic' 'Middle Eastern' 'Native American' 'Multiracial' 'Black'
+ 'White' 'Pacific Islander' 'Asian']",True
+Taylor,Asian,Rory,4,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Asian' 'Hispanic' 'Middle Eastern' 'Native American' 'Multiracial'
+ 'Black' 'White' 'Pacific Islander']",False
+Taylor,Asian,Remy,1,Asian,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern' 'Native American'
+ 'Multiracial' 'Black' 'White']",True
+Taylor,Asian,Kendall,2,Asian,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial' 'Black']",True
+Taylor,Asian,Alexi,3,Asian,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic' 'Middle Eastern'
+ 'Native American' 'Multiracial']",True
+Taylor,Asian,Rory,4,Asian,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Multiracial' 'Black' 'White' 'Pacific Islander' 'Asian' 'Hispanic'
+ 'Middle Eastern' 'Native American']",True
+Taylor,Asian,Remy,1,Multiracial,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Native American' 'Multiracial' 'Black' 'White' 'Pacific Islander'
+ 'Asian' 'Hispanic' 'Middle Eastern']",False
+Taylor,Asian,London,6,Asian,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Middle Eastern' 'Native American' 'Multiracial' 'Black' 'White'
+ 'Pacific Islander' 'Asian' 'Hispanic']",True
+Taylor,Asian,Sage,7,Asian,"['Tatum', 'Remy', 'Kendall', 'Alexi', 'Rory', 'Remi', 'London', 'Sage']","['Hispanic' 'Middle Eastern' 'Native American' 'Multiracial' 'Black'
+ 'White' 'Pacific Islander' 'Asian']",True
+Sage,Asian,Jordyn,1,Asian,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Sage,Asian,Tatum,2,Asian,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Middle Eastern' 'White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Sage,Asian,Ashton,3,Asian,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Hispanic' 'Middle Eastern' 'White' 'Asian' 'Native American'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sage,Asian,Skylar,4,Asian,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial' 'Black']",True
+Sage,Asian,Taylor,5,Asian,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial']",True
+Sage,Asian,Emerson,6,Asian,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Multiracial' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'White' 'Asian' 'Native American']",True
+Sage,Asian,Jesse,7,Asian,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Native American' 'Multiracial' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'White' 'Asian']",True
+Sage,Asian,Jordyn,1,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Asian' 'Native American' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Hispanic' 'Middle Eastern' 'White']",False
+Sage,Native American,Tatum,2,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Sage,Native American,Ashton,3,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Middle Eastern' 'White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Sage,Native American,Skylar,4,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Hispanic' 'Middle Eastern' 'White' 'Asian' 'Native American'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sage,Native American,Taylor,5,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial' 'Black']",True
+Sage,Native American,Emerson,6,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial']",True
+Sage,Native American,Jesse,7,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Multiracial' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'White' 'Asian' 'Native American']",True
+Sage,Native American,Frankie,0,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Native American' 'Multiracial' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'White' 'Asian']",True
+Sage,Native American,Jordyn,1,Native American,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Asian' 'Native American' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Hispanic' 'Middle Eastern' 'White']",True
+Sage,Multiracial,Ashton,3,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Sage,Multiracial,Skylar,4,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Middle Eastern' 'White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Sage,Multiracial,Taylor,5,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Hispanic' 'Middle Eastern' 'White' 'Asian' 'Native American'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sage,Multiracial,Emerson,6,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial' 'Black']",True
+Sage,Multiracial,Jesse,7,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial']",True
+Sage,Multiracial,Jordyn,1,Black,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Multiracial' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'White' 'Asian' 'Native American']",False
+Sage,Multiracial,Jordyn,1,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Native American' 'Multiracial' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'White' 'Asian']",True
+Sage,Multiracial,Tatum,2,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Asian' 'Native American' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Hispanic' 'Middle Eastern' 'White']",True
+Sage,Black,Skylar,4,Black,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Sage,Black,Taylor,5,Black,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Middle Eastern' 'White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Sage,Black,Emerson,6,Black,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Hispanic' 'Middle Eastern' 'White' 'Asian' 'Native American'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sage,Black,Emerson,6,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial' 'Black']",False
+Sage,Black,Jordyn,1,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial']",False
+Sage,Black,Jordyn,1,Black,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Multiracial' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'White' 'Asian' 'Native American']",True
+Sage,Black,Tatum,2,Black,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Native American' 'Multiracial' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'White' 'Asian']",True
+Sage,Black,Ashton,3,Black,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Asian' 'Native American' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Hispanic' 'Middle Eastern' 'White']",True
+Sage,Pacific Islander,Taylor,5,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Sage,Pacific Islander,Emerson,6,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Middle Eastern' 'White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Sage,Pacific Islander,Jesse,7,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Hispanic' 'Middle Eastern' 'White' 'Asian' 'Native American'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sage,Pacific Islander,Frankie,0,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial' 'Black']",True
+Sage,Pacific Islander,Jordyn,1,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial']",True
+Sage,Pacific Islander,Tatum,2,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Multiracial' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'White' 'Asian' 'Native American']",True
+Sage,Pacific Islander,Ashton,3,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Native American' 'Multiracial' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'White' 'Asian']",True
+Sage,Pacific Islander,Skylar,4,Pacific Islander,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Asian' 'Native American' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Hispanic' 'Middle Eastern' 'White']",True
+Sage,Hispanic,Emerson,6,Hispanic,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Sage,Hispanic,Jesse,7,Hispanic,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Middle Eastern' 'White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Sage,Hispanic,Frankie,0,Hispanic,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Hispanic' 'Middle Eastern' 'White' 'Asian' 'Native American'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sage,Hispanic,Jordyn,1,Hispanic,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial' 'Black']",True
+Sage,Hispanic,Tatum,2,Hispanic,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial']",True
+Sage,Hispanic,Ashton,3,Hispanic,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Multiracial' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'White' 'Asian' 'Native American']",True
+Sage,Hispanic,Skylar,4,Hispanic,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Native American' 'Multiracial' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'White' 'Asian']",True
+Sage,Hispanic,Taylor,5,Hispanic,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Asian' 'Native American' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Hispanic' 'Middle Eastern' 'White']",True
+Sage,Middle Eastern,Jesse,7,Middle Eastern,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Sage,Middle Eastern,Frankie,0,Middle Eastern,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Middle Eastern' 'White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Sage,Middle Eastern,Jordyn,1,Middle Eastern,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Hispanic' 'Middle Eastern' 'White' 'Asian' 'Native American'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sage,Middle Eastern,Tatum,2,Middle Eastern,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial' 'Black']",True
+Sage,Middle Eastern,Ashton,3,Middle Eastern,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial']",True
+Sage,Middle Eastern,Skylar,4,Middle Eastern,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Multiracial' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'White' 'Asian' 'Native American']",True
+Sage,Middle Eastern,Taylor,5,Middle Eastern,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Native American' 'Multiracial' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'White' 'Asian']",True
+Sage,Middle Eastern,Emerson,6,Middle Eastern,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Asian' 'Native American' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Hispanic' 'Middle Eastern' 'White']",True
+Sage,White,Jordyn,1,Asian,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",False
+Sage,White,Jordyn,1,White,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Middle Eastern' 'White' 'Asian' 'Native American' 'Multiracial' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Sage,White,Tatum,2,White,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Hispanic' 'Middle Eastern' 'White' 'Asian' 'Native American'
+ 'Multiracial' 'Black' 'Pacific Islander']",True
+Sage,White,Emerson,6,Multiracial,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial' 'Black']",False
+Sage,White,Skylar,4,White,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'White' 'Asian'
+ 'Native American' 'Multiracial']",True
+Sage,White,Taylor,5,White,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Multiracial' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'White' 'Asian' 'Native American']",True
+Sage,White,Emerson,6,White,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Native American' 'Multiracial' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'White' 'Asian']",True
+Sage,White,Jesse,7,White,"['Frankie', 'Jordyn', 'Tatum', 'Ashton', 'Skylar', 'Taylor', 'Emerson', 'Jesse']","['Asian' 'Native American' 'Multiracial' 'Black' 'Pacific Islander'
+ 'Hispanic' 'Middle Eastern' 'White']",True
+River,Asian,Ashton,1,Asian,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic' 'Multiracial'
+ 'Native American' 'Pacific Islander']",True
+River,Asian,Shawn,2,Asian,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Pacific Islander' 'Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic'
+ 'Multiracial' 'Native American']",True
+River,Asian,Emery,3,Asian,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Native American' 'Pacific Islander' 'Middle Eastern' 'Asian' 'White'
+ 'Black' 'Hispanic' 'Multiracial']",True
+River,Asian,Charlie,4,Asian,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Multiracial' 'Native American' 'Pacific Islander' 'Middle Eastern'
+ 'Asian' 'White' 'Black' 'Hispanic']",True
+River,Asian,Sage,5,Asian,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White' 'Black']",True
+River,Asian,Dylan,6,Asian,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Black' 'Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White']",True
+River,Asian,Bailey,7,Asian,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern' 'Asian']",True
+River,Asian,Sam,0,Asian,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Asian' 'White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern']",True
+River,White,Shawn,2,White,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic' 'Multiracial'
+ 'Native American' 'Pacific Islander']",True
+River,White,Emery,3,White,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Pacific Islander' 'Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic'
+ 'Multiracial' 'Native American']",True
+River,White,Charlie,4,White,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Native American' 'Pacific Islander' 'Middle Eastern' 'Asian' 'White'
+ 'Black' 'Hispanic' 'Multiracial']",True
+River,White,Sage,5,White,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Multiracial' 'Native American' 'Pacific Islander' 'Middle Eastern'
+ 'Asian' 'White' 'Black' 'Hispanic']",True
+River,White,Dylan,6,White,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White' 'Black']",True
+River,White,Bailey,7,White,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Black' 'Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White']",True
+River,White,Ashton,1,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern' 'Asian']",False
+River,White,Ashton,1,White,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Asian' 'White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern']",True
+River,Black,Emery,3,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic' 'Multiracial'
+ 'Native American' 'Pacific Islander']",True
+River,Black,Charlie,4,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Pacific Islander' 'Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic'
+ 'Multiracial' 'Native American']",True
+River,Black,Sage,5,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Native American' 'Pacific Islander' 'Middle Eastern' 'Asian' 'White'
+ 'Black' 'Hispanic' 'Multiracial']",True
+River,Black,Dylan,6,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Multiracial' 'Native American' 'Pacific Islander' 'Middle Eastern'
+ 'Asian' 'White' 'Black' 'Hispanic']",True
+River,Black,Bailey,7,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White' 'Black']",True
+River,Black,Sam,0,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Black' 'Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White']",True
+River,Black,Ashton,1,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern' 'Asian']",True
+River,Black,Shawn,2,Black,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Asian' 'White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern']",True
+River,Hispanic,Charlie,4,Hispanic,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic' 'Multiracial'
+ 'Native American' 'Pacific Islander']",True
+River,Hispanic,Sage,5,Hispanic,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Pacific Islander' 'Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic'
+ 'Multiracial' 'Native American']",True
+River,Hispanic,Dylan,6,Hispanic,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Native American' 'Pacific Islander' 'Middle Eastern' 'Asian' 'White'
+ 'Black' 'Hispanic' 'Multiracial']",True
+River,Hispanic,Bailey,7,Hispanic,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Multiracial' 'Native American' 'Pacific Islander' 'Middle Eastern'
+ 'Asian' 'White' 'Black' 'Hispanic']",True
+River,Hispanic,Sam,0,Hispanic,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White' 'Black']",True
+River,Hispanic,Ashton,1,Hispanic,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Black' 'Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White']",True
+River,Hispanic,Emery,3,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern' 'Asian']",False
+River,Hispanic,Emery,3,Hispanic,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Asian' 'White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern']",True
+River,Multiracial,Sage,5,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic' 'Multiracial'
+ 'Native American' 'Pacific Islander']",True
+River,Multiracial,Dylan,6,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Pacific Islander' 'Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic'
+ 'Multiracial' 'Native American']",True
+River,Multiracial,Bailey,7,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Native American' 'Pacific Islander' 'Middle Eastern' 'Asian' 'White'
+ 'Black' 'Hispanic' 'Multiracial']",True
+River,Multiracial,Sam,0,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Multiracial' 'Native American' 'Pacific Islander' 'Middle Eastern'
+ 'Asian' 'White' 'Black' 'Hispanic']",True
+River,Multiracial,Ashton,1,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White' 'Black']",True
+River,Multiracial,Shawn,2,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Black' 'Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White']",True
+River,Multiracial,Emery,3,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern' 'Asian']",True
+River,Multiracial,Charlie,4,Multiracial,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Asian' 'White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern']",True
+River,Native American,Dylan,6,Native American,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic' 'Multiracial'
+ 'Native American' 'Pacific Islander']",True
+River,Native American,Bailey,7,Native American,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Pacific Islander' 'Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic'
+ 'Multiracial' 'Native American']",True
+River,Native American,Sam,0,Native American,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Native American' 'Pacific Islander' 'Middle Eastern' 'Asian' 'White'
+ 'Black' 'Hispanic' 'Multiracial']",True
+River,Native American,Ashton,1,Native American,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Multiracial' 'Native American' 'Pacific Islander' 'Middle Eastern'
+ 'Asian' 'White' 'Black' 'Hispanic']",True
+River,Native American,Shawn,2,Native American,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White' 'Black']",True
+River,Native American,Emery,3,Native American,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Black' 'Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White']",True
+River,Native American,Charlie,4,Native American,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern' 'Asian']",True
+River,Native American,Sage,5,Native American,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Asian' 'White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern']",True
+River,Pacific Islander,Bailey,7,Pacific Islander,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic' 'Multiracial'
+ 'Native American' 'Pacific Islander']",True
+River,Pacific Islander,Sam,0,Pacific Islander,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Pacific Islander' 'Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic'
+ 'Multiracial' 'Native American']",True
+River,Pacific Islander,Ashton,1,Pacific Islander,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Native American' 'Pacific Islander' 'Middle Eastern' 'Asian' 'White'
+ 'Black' 'Hispanic' 'Multiracial']",True
+River,Pacific Islander,Shawn,2,Pacific Islander,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Multiracial' 'Native American' 'Pacific Islander' 'Middle Eastern'
+ 'Asian' 'White' 'Black' 'Hispanic']",True
+River,Pacific Islander,Emery,3,Pacific Islander,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White' 'Black']",True
+River,Pacific Islander,Charlie,4,Pacific Islander,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Black' 'Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White']",True
+River,Pacific Islander,Sage,5,Pacific Islander,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern' 'Asian']",True
+River,Pacific Islander,Dylan,6,Pacific Islander,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Asian' 'White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern']",True
+River,Middle Eastern,Sam,0,Middle Eastern,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic' 'Multiracial'
+ 'Native American' 'Pacific Islander']",True
+River,Middle Eastern,Ashton,1,Middle Eastern,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Pacific Islander' 'Middle Eastern' 'Asian' 'White' 'Black' 'Hispanic'
+ 'Multiracial' 'Native American']",True
+River,Middle Eastern,Shawn,2,Middle Eastern,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Native American' 'Pacific Islander' 'Middle Eastern' 'Asian' 'White'
+ 'Black' 'Hispanic' 'Multiracial']",True
+River,Middle Eastern,Emery,3,Middle Eastern,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Multiracial' 'Native American' 'Pacific Islander' 'Middle Eastern'
+ 'Asian' 'White' 'Black' 'Hispanic']",True
+River,Middle Eastern,Charlie,4,Middle Eastern,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White' 'Black']",True
+River,Middle Eastern,Sage,5,Middle Eastern,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Black' 'Hispanic' 'Multiracial' 'Native American' 'Pacific Islander'
+ 'Middle Eastern' 'Asian' 'White']",True
+River,Middle Eastern,Dylan,6,Middle Eastern,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern' 'Asian']",True
+River,Middle Eastern,Bailey,7,Middle Eastern,"['Sam', 'Ashton', 'Shawn', 'Emery', 'Charlie', 'Sage', 'Dylan', 'Bailey']","['Asian' 'White' 'Black' 'Hispanic' 'Multiracial' 'Native American'
+ 'Pacific Islander' 'Middle Eastern']",True
+Dylan,Native American,Frankie,1,Native American,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['White' 'Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Dylan,Native American,Emery,2,Native American,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Dylan,Native American,Alexi,3,Native American,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Middle Eastern' 'Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Dylan,Native American,Jordyn,4,Native American,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Hispanic' 'Middle Eastern' 'Multiracial' 'White' 'Native American'
+ 'Asian' 'Black' 'Pacific Islander']",True
+Dylan,Native American,Remi,5,Native American,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial' 'White'
+ 'Native American' 'Asian' 'Black']",True
+Dylan,Native American,Drew,6,Native American,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'White' 'Native American' 'Asian']",True
+Dylan,Native American,Taylor,7,Native American,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Asian' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'White' 'Native American']",True
+Dylan,Native American,Elliot,0,Native American,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'White']",True
+Dylan,Asian,Emery,2,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['White' 'Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Dylan,Asian,Alexi,3,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Dylan,Asian,Jordyn,4,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Middle Eastern' 'Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Dylan,Asian,Remi,5,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Hispanic' 'Middle Eastern' 'Multiracial' 'White' 'Native American'
+ 'Asian' 'Black' 'Pacific Islander']",True
+Dylan,Asian,Drew,6,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial' 'White'
+ 'Native American' 'Asian' 'Black']",True
+Dylan,Asian,Taylor,7,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'White' 'Native American' 'Asian']",True
+Dylan,Asian,Elliot,0,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Asian' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'White' 'Native American']",True
+Dylan,Asian,Frankie,1,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'White']",True
+Dylan,Black,Alexi,3,Black,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['White' 'Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Dylan,Black,Jordyn,4,Black,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Dylan,Black,Remi,5,Black,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Middle Eastern' 'Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Dylan,Black,Drew,6,Black,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Hispanic' 'Middle Eastern' 'Multiracial' 'White' 'Native American'
+ 'Asian' 'Black' 'Pacific Islander']",True
+Dylan,Black,Taylor,7,Black,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial' 'White'
+ 'Native American' 'Asian' 'Black']",True
+Dylan,Black,Frankie,1,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'White' 'Native American' 'Asian']",False
+Dylan,Black,Frankie,1,Black,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Asian' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'White' 'Native American']",True
+Dylan,Black,Emery,2,Black,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'White']",True
+Dylan,Pacific Islander,Jordyn,4,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['White' 'Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Dylan,Pacific Islander,Remi,5,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Dylan,Pacific Islander,Drew,6,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Middle Eastern' 'Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Dylan,Pacific Islander,Taylor,7,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Hispanic' 'Middle Eastern' 'Multiracial' 'White' 'Native American'
+ 'Asian' 'Black' 'Pacific Islander']",True
+Dylan,Pacific Islander,Elliot,0,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial' 'White'
+ 'Native American' 'Asian' 'Black']",True
+Dylan,Pacific Islander,Frankie,1,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'White' 'Native American' 'Asian']",True
+Dylan,Pacific Islander,Emery,2,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Asian' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'White' 'Native American']",True
+Dylan,Pacific Islander,Alexi,3,Pacific Islander,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'White']",True
+Dylan,Hispanic,Remi,5,Hispanic,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['White' 'Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Dylan,Hispanic,Drew,6,Hispanic,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Dylan,Hispanic,Taylor,7,Hispanic,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Middle Eastern' 'Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Dylan,Hispanic,Emery,2,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Hispanic' 'Middle Eastern' 'Multiracial' 'White' 'Native American'
+ 'Asian' 'Black' 'Pacific Islander']",False
+Dylan,Hispanic,Frankie,1,Hispanic,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial' 'White'
+ 'Native American' 'Asian' 'Black']",True
+Dylan,Hispanic,Emery,2,Hispanic,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'White' 'Native American' 'Asian']",True
+Dylan,Hispanic,Alexi,3,Hispanic,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Asian' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'White' 'Native American']",True
+Dylan,Hispanic,Jordyn,4,Hispanic,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'White']",True
+Dylan,Middle Eastern,Drew,6,Middle Eastern,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['White' 'Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Dylan,Middle Eastern,Taylor,7,Middle Eastern,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Dylan,Middle Eastern,Elliot,0,Middle Eastern,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Middle Eastern' 'Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Dylan,Middle Eastern,Frankie,1,Middle Eastern,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Hispanic' 'Middle Eastern' 'Multiracial' 'White' 'Native American'
+ 'Asian' 'Black' 'Pacific Islander']",True
+Dylan,Middle Eastern,Emery,2,Middle Eastern,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial' 'White'
+ 'Native American' 'Asian' 'Black']",True
+Dylan,Middle Eastern,Alexi,3,Middle Eastern,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'White' 'Native American' 'Asian']",True
+Dylan,Middle Eastern,Jordyn,4,Middle Eastern,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Asian' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'White' 'Native American']",True
+Dylan,Middle Eastern,Remi,5,Middle Eastern,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'White']",True
+Dylan,Multiracial,Taylor,7,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['White' 'Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Dylan,Multiracial,Elliot,0,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",True
+Dylan,Multiracial,Frankie,1,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Middle Eastern' 'Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Dylan,Multiracial,Emery,2,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Hispanic' 'Middle Eastern' 'Multiracial' 'White' 'Native American'
+ 'Asian' 'Black' 'Pacific Islander']",True
+Dylan,Multiracial,Alexi,3,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial' 'White'
+ 'Native American' 'Asian' 'Black']",True
+Dylan,Multiracial,Jordyn,4,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'White' 'Native American' 'Asian']",True
+Dylan,Multiracial,Remi,5,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Asian' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'White' 'Native American']",True
+Dylan,Multiracial,Drew,6,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'White']",True
+Dylan,White,Taylor,7,Multiracial,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['White' 'Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",False
+Dylan,White,Alexi,3,Asian,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic' 'Middle Eastern']",False
+Dylan,White,Emery,2,White,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Middle Eastern' 'Multiracial' 'White' 'Native American' 'Asian' 'Black'
+ 'Pacific Islander' 'Hispanic']",True
+Dylan,White,Alexi,3,White,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Hispanic' 'Middle Eastern' 'Multiracial' 'White' 'Native American'
+ 'Asian' 'Black' 'Pacific Islander']",True
+Dylan,White,Jordyn,4,White,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial' 'White'
+ 'Native American' 'Asian' 'Black']",True
+Dylan,White,Remi,5,White,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'White' 'Native American' 'Asian']",True
+Dylan,White,Drew,6,White,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Asian' 'Black' 'Pacific Islander' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'White' 'Native American']",True
+Dylan,White,Taylor,7,White,"['Elliot', 'Frankie', 'Emery', 'Alexi', 'Jordyn', 'Remi', 'Drew', 'Taylor']","['Native American' 'Asian' 'Black' 'Pacific Islander' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'White']",True
+Parker,Multiracial,Kris,1,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Middle Eastern' 'Multiracial' 'Black' 'Asian' 'Pacific Islander'
+ 'Native American' 'White' 'Hispanic']",True
+Parker,Multiracial,Jules,2,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American' 'White']",True
+Parker,Multiracial,Devin,3,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['White' 'Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American']",True
+Parker,Multiracial,Dallas,4,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Native American' 'White' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'Black' 'Asian' 'Pacific Islander']",True
+Parker,Multiracial,Dallas,4,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Pacific Islander' 'Native American' 'White' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'Black' 'Asian']",False
+Parker,Multiracial,Peyton,6,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'Black']",True
+Parker,Multiracial,Corey,7,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Black' 'Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Parker,Multiracial,Jordyn,0,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Multiracial' 'Black' 'Asian' 'Pacific Islander' 'Native American'
+ 'White' 'Hispanic' 'Middle Eastern']",True
+Parker,Black,Jules,2,Black,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Middle Eastern' 'Multiracial' 'Black' 'Asian' 'Pacific Islander'
+ 'Native American' 'White' 'Hispanic']",True
+Parker,Black,Devin,3,Black,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American' 'White']",True
+Parker,Black,Dallas,4,Black,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['White' 'Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American']",True
+Parker,Black,Elliot,5,Black,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Native American' 'White' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'Black' 'Asian' 'Pacific Islander']",True
+Parker,Black,Elliot,5,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Pacific Islander' 'Native American' 'White' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'Black' 'Asian']",False
+Parker,Black,Peyton,6,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'Black']",False
+Parker,Black,Jordyn,0,Black,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Black' 'Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Parker,Black,Kris,1,Black,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Multiracial' 'Black' 'Asian' 'Pacific Islander' 'Native American'
+ 'White' 'Hispanic' 'Middle Eastern']",True
+Parker,Asian,Devin,3,Asian,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Middle Eastern' 'Multiracial' 'Black' 'Asian' 'Pacific Islander'
+ 'Native American' 'White' 'Hispanic']",True
+Parker,Asian,Jules,2,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American' 'White']",False
+Parker,Asian,Elliot,5,Asian,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['White' 'Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American']",True
+Parker,Asian,Peyton,6,Asian,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Native American' 'White' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'Black' 'Asian' 'Pacific Islander']",True
+Parker,Asian,Corey,7,Asian,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Pacific Islander' 'Native American' 'White' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'Black' 'Asian']",True
+Parker,Asian,Jordyn,0,Asian,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'Black']",True
+Parker,Asian,Kris,1,Asian,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Black' 'Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Parker,Asian,Jules,2,Asian,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Multiracial' 'Black' 'Asian' 'Pacific Islander' 'Native American'
+ 'White' 'Hispanic' 'Middle Eastern']",True
+Parker,Pacific Islander,Dallas,4,Pacific Islander,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Middle Eastern' 'Multiracial' 'Black' 'Asian' 'Pacific Islander'
+ 'Native American' 'White' 'Hispanic']",True
+Parker,Pacific Islander,Elliot,5,Pacific Islander,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American' 'White']",True
+Parker,Pacific Islander,Peyton,6,Pacific Islander,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['White' 'Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American']",True
+Parker,Pacific Islander,Corey,7,Pacific Islander,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Native American' 'White' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'Black' 'Asian' 'Pacific Islander']",True
+Parker,Pacific Islander,Jordyn,0,Pacific Islander,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Pacific Islander' 'Native American' 'White' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'Black' 'Asian']",True
+Parker,Pacific Islander,Kris,1,Pacific Islander,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'Black']",True
+Parker,Pacific Islander,Jules,2,Pacific Islander,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Black' 'Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Parker,Pacific Islander,Devin,3,Pacific Islander,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Multiracial' 'Black' 'Asian' 'Pacific Islander' 'Native American'
+ 'White' 'Hispanic' 'Middle Eastern']",True
+Parker,Native American,Elliot,5,Native American,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Middle Eastern' 'Multiracial' 'Black' 'Asian' 'Pacific Islander'
+ 'Native American' 'White' 'Hispanic']",True
+Parker,Native American,Peyton,6,Native American,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American' 'White']",True
+Parker,Native American,Corey,7,Native American,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['White' 'Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American']",True
+Parker,Native American,Jordyn,0,Native American,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Native American' 'White' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'Black' 'Asian' 'Pacific Islander']",True
+Parker,Native American,Kris,1,Native American,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Pacific Islander' 'Native American' 'White' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'Black' 'Asian']",True
+Parker,Native American,Jules,2,Native American,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'Black']",True
+Parker,Native American,Devin,3,Native American,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Black' 'Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Parker,Native American,Dallas,4,Native American,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Multiracial' 'Black' 'Asian' 'Pacific Islander' 'Native American'
+ 'White' 'Hispanic' 'Middle Eastern']",True
+Parker,White,Peyton,6,White,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Middle Eastern' 'Multiracial' 'Black' 'Asian' 'Pacific Islander'
+ 'Native American' 'White' 'Hispanic']",True
+Parker,White,Jules,2,Multiracial,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American' 'White']",False
+Parker,White,Jordyn,0,White,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['White' 'Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American']",True
+Parker,White,Kris,1,White,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Native American' 'White' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'Black' 'Asian' 'Pacific Islander']",True
+Parker,White,Jules,2,White,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Pacific Islander' 'Native American' 'White' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'Black' 'Asian']",True
+Parker,White,Devin,3,White,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'Black']",True
+Parker,White,Dallas,4,White,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Black' 'Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Parker,White,Elliot,5,White,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Multiracial' 'Black' 'Asian' 'Pacific Islander' 'Native American'
+ 'White' 'Hispanic' 'Middle Eastern']",True
+Parker,Hispanic,Corey,7,Hispanic,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Middle Eastern' 'Multiracial' 'Black' 'Asian' 'Pacific Islander'
+ 'Native American' 'White' 'Hispanic']",True
+Parker,Hispanic,Jordyn,0,Hispanic,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American' 'White']",True
+Parker,Hispanic,Kris,1,Hispanic,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['White' 'Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American']",True
+Parker,Hispanic,Jules,2,Hispanic,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Native American' 'White' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'Black' 'Asian' 'Pacific Islander']",True
+Parker,Hispanic,Devin,3,Hispanic,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Pacific Islander' 'Native American' 'White' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'Black' 'Asian']",True
+Parker,Hispanic,Dallas,4,Hispanic,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'Black']",True
+Parker,Hispanic,Elliot,5,Hispanic,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Black' 'Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Parker,Hispanic,Peyton,6,Hispanic,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Multiracial' 'Black' 'Asian' 'Pacific Islander' 'Native American'
+ 'White' 'Hispanic' 'Middle Eastern']",True
+Parker,Middle Eastern,Jordyn,0,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Middle Eastern' 'Multiracial' 'Black' 'Asian' 'Pacific Islander'
+ 'Native American' 'White' 'Hispanic']",True
+Parker,Middle Eastern,Kris,1,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American' 'White']",True
+Parker,Middle Eastern,Jules,2,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['White' 'Hispanic' 'Middle Eastern' 'Multiracial' 'Black' 'Asian'
+ 'Pacific Islander' 'Native American']",True
+Parker,Middle Eastern,Devin,3,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Native American' 'White' 'Hispanic' 'Middle Eastern' 'Multiracial'
+ 'Black' 'Asian' 'Pacific Islander']",True
+Parker,Middle Eastern,Dallas,4,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Pacific Islander' 'Native American' 'White' 'Hispanic' 'Middle Eastern'
+ 'Multiracial' 'Black' 'Asian']",True
+Parker,Middle Eastern,Elliot,5,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial' 'Black']",True
+Parker,Middle Eastern,Peyton,6,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Black' 'Asian' 'Pacific Islander' 'Native American' 'White' 'Hispanic'
+ 'Middle Eastern' 'Multiracial']",True
+Parker,Middle Eastern,Corey,7,Middle Eastern,"['Jordyn', 'Kris', 'Jules', 'Devin', 'Dallas', 'Elliot', 'Peyton', 'Corey']","['Multiracial' 'Black' 'Asian' 'Pacific Islander' 'Native American'
+ 'White' 'Hispanic' 'Middle Eastern']",True
+Blaze,Native American,Casey,1,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Blaze,Native American,Jamie,2,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['White' 'Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial']",True
+Blaze,Native American,Cameron,3,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Multiracial' 'White' 'Middle Eastern' 'Native American' 'Asian' 'Black'
+ 'Hispanic' 'Pacific Islander']",True
+Blaze,Native American,Emerson,4,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black' 'Hispanic']",True
+Blaze,Native American,Skyler,5,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Hispanic' 'Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black']",True
+Blaze,Native American,Robin,6,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American' 'Asian']",True
+Blaze,Native American,Jesse,7,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Asian' 'Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American']",True
+Blaze,Native American,Charlie,0,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Native American' 'Asian' 'Black' 'Hispanic' 'Pacific Islander'
+ 'Multiracial' 'White' 'Middle Eastern']",True
+Blaze,Asian,Jamie,2,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Blaze,Asian,Cameron,3,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['White' 'Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial']",True
+Blaze,Asian,Emerson,4,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Multiracial' 'White' 'Middle Eastern' 'Native American' 'Asian' 'Black'
+ 'Hispanic' 'Pacific Islander']",True
+Blaze,Asian,Skyler,5,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black' 'Hispanic']",True
+Blaze,Asian,Robin,6,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Hispanic' 'Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black']",True
+Blaze,Asian,Jesse,7,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American' 'Asian']",True
+Blaze,Asian,Charlie,0,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Asian' 'Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American']",True
+Blaze,Asian,Casey,1,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Native American' 'Asian' 'Black' 'Hispanic' 'Pacific Islander'
+ 'Multiracial' 'White' 'Middle Eastern']",True
+Blaze,Black,Robin,6,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial' 'White']",False
+Blaze,Black,Emerson,4,Black,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['White' 'Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial']",True
+Blaze,Black,Skyler,5,Black,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Multiracial' 'White' 'Middle Eastern' 'Native American' 'Asian' 'Black'
+ 'Hispanic' 'Pacific Islander']",True
+Blaze,Black,Robin,6,Black,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black' 'Hispanic']",True
+Blaze,Black,Jesse,7,Black,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Hispanic' 'Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black']",True
+Blaze,Black,Charlie,0,Black,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American' 'Asian']",True
+Blaze,Black,Casey,1,Black,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Asian' 'Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American']",True
+Blaze,Black,Jamie,2,Black,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Native American' 'Asian' 'Black' 'Hispanic' 'Pacific Islander'
+ 'Multiracial' 'White' 'Middle Eastern']",True
+Blaze,Hispanic,Emerson,4,Hispanic,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Blaze,Hispanic,Skyler,5,Hispanic,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['White' 'Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial']",True
+Blaze,Hispanic,Robin,6,Hispanic,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Multiracial' 'White' 'Middle Eastern' 'Native American' 'Asian' 'Black'
+ 'Hispanic' 'Pacific Islander']",True
+Blaze,Hispanic,Jesse,7,Hispanic,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black' 'Hispanic']",True
+Blaze,Hispanic,Jamie,2,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Hispanic' 'Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black']",False
+Blaze,Hispanic,Casey,1,Hispanic,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American' 'Asian']",True
+Blaze,Hispanic,Jamie,2,Hispanic,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Asian' 'Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American']",True
+Blaze,Hispanic,Cameron,3,Hispanic,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Native American' 'Asian' 'Black' 'Hispanic' 'Pacific Islander'
+ 'Multiracial' 'White' 'Middle Eastern']",True
+Blaze,Pacific Islander,Skyler,5,Pacific Islander,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Blaze,Pacific Islander,Robin,6,Pacific Islander,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['White' 'Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial']",True
+Blaze,Pacific Islander,Jesse,7,Pacific Islander,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Multiracial' 'White' 'Middle Eastern' 'Native American' 'Asian' 'Black'
+ 'Hispanic' 'Pacific Islander']",True
+Blaze,Pacific Islander,Charlie,0,Pacific Islander,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black' 'Hispanic']",True
+Blaze,Pacific Islander,Casey,1,Pacific Islander,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Hispanic' 'Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black']",True
+Blaze,Pacific Islander,Jamie,2,Pacific Islander,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American' 'Asian']",True
+Blaze,Pacific Islander,Cameron,3,Pacific Islander,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Asian' 'Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American']",True
+Blaze,Pacific Islander,Emerson,4,Pacific Islander,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Native American' 'Asian' 'Black' 'Hispanic' 'Pacific Islander'
+ 'Multiracial' 'White' 'Middle Eastern']",True
+Blaze,Multiracial,Robin,6,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Blaze,Multiracial,Jesse,7,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['White' 'Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial']",True
+Blaze,Multiracial,Charlie,0,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Multiracial' 'White' 'Middle Eastern' 'Native American' 'Asian' 'Black'
+ 'Hispanic' 'Pacific Islander']",True
+Blaze,Multiracial,Casey,1,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black' 'Hispanic']",True
+Blaze,Multiracial,Jamie,2,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Hispanic' 'Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black']",True
+Blaze,Multiracial,Cameron,3,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American' 'Asian']",True
+Blaze,Multiracial,Emerson,4,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Asian' 'Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American']",True
+Blaze,Multiracial,Skyler,5,Multiracial,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Native American' 'Asian' 'Black' 'Hispanic' 'Pacific Islander'
+ 'Multiracial' 'White' 'Middle Eastern']",True
+Blaze,White,Jesse,7,White,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Blaze,White,Jamie,2,Native American,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['White' 'Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial']",False
+Blaze,White,Emerson,4,Asian,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Multiracial' 'White' 'Middle Eastern' 'Native American' 'Asian' 'Black'
+ 'Hispanic' 'Pacific Islander']",False
+Blaze,White,Jamie,2,White,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black' 'Hispanic']",True
+Blaze,White,Cameron,3,White,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Hispanic' 'Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black']",True
+Blaze,White,Emerson,4,White,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American' 'Asian']",True
+Blaze,White,Skyler,5,White,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Asian' 'Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American']",True
+Blaze,White,Robin,6,White,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Native American' 'Asian' 'Black' 'Hispanic' 'Pacific Islander'
+ 'Multiracial' 'White' 'Middle Eastern']",True
+Blaze,Middle Eastern,Charlie,0,Middle Eastern,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial' 'White']",True
+Blaze,Middle Eastern,Casey,1,Middle Eastern,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['White' 'Middle Eastern' 'Native American' 'Asian' 'Black' 'Hispanic'
+ 'Pacific Islander' 'Multiracial']",True
+Blaze,Middle Eastern,Jamie,2,Middle Eastern,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Multiracial' 'White' 'Middle Eastern' 'Native American' 'Asian' 'Black'
+ 'Hispanic' 'Pacific Islander']",True
+Blaze,Middle Eastern,Cameron,3,Middle Eastern,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black' 'Hispanic']",True
+Blaze,Middle Eastern,Emerson,4,Middle Eastern,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Hispanic' 'Pacific Islander' 'Multiracial' 'White' 'Middle Eastern'
+ 'Native American' 'Asian' 'Black']",True
+Blaze,Middle Eastern,Skyler,5,Middle Eastern,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American' 'Asian']",True
+Blaze,Middle Eastern,Robin,6,Middle Eastern,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Asian' 'Black' 'Hispanic' 'Pacific Islander' 'Multiracial' 'White'
+ 'Middle Eastern' 'Native American']",True
+Blaze,Middle Eastern,Jesse,7,Middle Eastern,"['Charlie', 'Casey', 'Jamie', 'Cameron', 'Emerson', 'Skyler', 'Robin', 'Jesse']","['Native American' 'Asian' 'Black' 'Hispanic' 'Pacific Islander'
+ 'Multiracial' 'White' 'Middle Eastern']",True
